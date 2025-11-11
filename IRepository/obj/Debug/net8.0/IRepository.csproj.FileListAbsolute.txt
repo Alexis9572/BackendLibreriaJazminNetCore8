@@ -1,0 +1,98 @@
+D:\modulo3\AAAAA\IRepository\bin\Debug\net8.0\IRepository.deps.json
+D:\modulo3\AAAAA\IRepository\bin\Debug\net8.0\IRepository.dll
+D:\modulo3\AAAAA\IRepository\bin\Debug\net8.0\IRepository.pdb
+D:\modulo3\AAAAA\IRepository\obj\Debug\net8.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\modulo3\AAAAA\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfoInputs.cache
+D:\modulo3\AAAAA\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfo.cs
+D:\modulo3\AAAAA\IRepository\obj\Debug\net8.0\IRepository.csproj.CoreCompileInputs.cache
+D:\modulo3\AAAAA\IRepository\obj\Debug\net8.0\IRepository.dll
+D:\modulo3\AAAAA\IRepository\obj\Debug\net8.0\refint\IRepository.dll
+D:\modulo3\AAAAA\IRepository\obj\Debug\net8.0\IRepository.pdb
+D:\modulo3\AAAAA\IRepository\obj\Debug\net8.0\ref\IRepository.dll
+E:\LibreriaYazz\BackEnd\IRepository\bin\Debug\net8.0\IRepository.deps.json
+E:\LibreriaYazz\BackEnd\IRepository\bin\Debug\net8.0\IRepository.dll
+E:\LibreriaYazz\BackEnd\IRepository\bin\Debug\net8.0\IRepository.pdb
+E:\LibreriaYazz\BackEnd\IRepository\bin\Debug\net8.0\DBLibreria.dll
+E:\LibreriaYazz\BackEnd\IRepository\bin\Debug\net8.0\RequestResponse.dll
+E:\LibreriaYazz\BackEnd\IRepository\bin\Debug\net8.0\DBLibreria.pdb
+E:\LibreriaYazz\BackEnd\IRepository\bin\Debug\net8.0\RequestResponse.pdb
+E:\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IRepository.csproj.AssemblyReference.cache
+E:\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfoInputs.cache
+E:\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfo.cs
+E:\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IRepository.csproj.CoreCompileInputs.cache
+E:\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IRepository.dll
+E:\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\refint\IRepository.dll
+E:\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IRepository.pdb
+E:\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\ref\IRepository.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\bin\Debug\net8.0\IRepository.deps.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\bin\Debug\net8.0\IRepository.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\bin\Debug\net8.0\IRepository.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\bin\Debug\net8.0\DBLibreria.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\bin\Debug\net8.0\RequestResponse.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\bin\Debug\net8.0\DBLibreria.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\bin\Debug\net8.0\RequestResponse.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IRepository.csproj.AssemblyReference.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfoInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfo.cs
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IRepository.csproj.CoreCompileInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IRepository.csproj.CopyComplete
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IRepository.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\refint\IRepository.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IRepository.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\ref\IRepository.dll
+E:\LibreriaYazz\BackEnd\IRepository\obj\Debug\net8.0\IReposit.1D40EF52.Up2Date
+D:\DATA C\LibreriaBack\IRepository\bin\Debug\net8.0\IRepository.deps.json
+D:\DATA C\LibreriaBack\IRepository\bin\Debug\net8.0\IRepository.dll
+D:\DATA C\LibreriaBack\IRepository\bin\Debug\net8.0\IRepository.pdb
+D:\DATA C\LibreriaBack\IRepository\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA C\LibreriaBack\IRepository\bin\Debug\net8.0\RequestResponse.dll
+D:\DATA C\LibreriaBack\IRepository\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA C\LibreriaBack\IRepository\bin\Debug\net8.0\RequestResponse.pdb
+D:\DATA C\LibreriaBack\IRepository\obj\Debug\net8.0\IRepository.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack\IRepository\obj\Debug\net8.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfo.cs
+D:\DATA C\LibreriaBack\IRepository\obj\Debug\net8.0\IRepository.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack\IRepository\obj\Debug\net8.0\IRepository.sourcelink.json
+D:\DATA C\LibreriaBack\IRepository\obj\Debug\net8.0\IReposit.1D40EF52.Up2Date
+D:\DATA C\LibreriaBack\IRepository\obj\Debug\net8.0\IRepository.dll
+D:\DATA C\LibreriaBack\IRepository\obj\Debug\net8.0\refint\IRepository.dll
+D:\DATA C\LibreriaBack\IRepository\obj\Debug\net8.0\IRepository.pdb
+D:\DATA C\LibreriaBack\IRepository\obj\Debug\net8.0\ref\IRepository.dll
+D:\DATA C\LibreriaBack1\IRepository\bin\Debug\net8.0\IRepository.deps.json
+D:\DATA C\LibreriaBack1\IRepository\bin\Debug\net8.0\IRepository.dll
+D:\DATA C\LibreriaBack1\IRepository\bin\Debug\net8.0\IRepository.pdb
+D:\DATA C\LibreriaBack1\IRepository\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA C\LibreriaBack1\IRepository\bin\Debug\net8.0\RequestResponse.dll
+D:\DATA C\LibreriaBack1\IRepository\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA C\LibreriaBack1\IRepository\bin\Debug\net8.0\RequestResponse.pdb
+D:\DATA C\LibreriaBack1\IRepository\obj\Debug\net8.0\IRepository.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack1\IRepository\obj\Debug\net8.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack1\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack1\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfo.cs
+D:\DATA C\LibreriaBack1\IRepository\obj\Debug\net8.0\IRepository.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack1\IRepository\obj\Debug\net8.0\IRepository.sourcelink.json
+D:\DATA C\LibreriaBack1\IRepository\obj\Debug\net8.0\IReposit.1D40EF52.Up2Date
+D:\DATA C\LibreriaBack1\IRepository\obj\Debug\net8.0\IRepository.dll
+D:\DATA C\LibreriaBack1\IRepository\obj\Debug\net8.0\refint\IRepository.dll
+D:\DATA C\LibreriaBack1\IRepository\obj\Debug\net8.0\IRepository.pdb
+D:\DATA C\LibreriaBack1\IRepository\obj\Debug\net8.0\ref\IRepository.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\bin\Debug\net8.0\IRepository.deps.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\bin\Debug\net8.0\IRepository.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\bin\Debug\net8.0\IRepository.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\bin\Debug\net8.0\RequestResponse.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\bin\Debug\net8.0\RequestResponse.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\obj\Debug\net8.0\IRepository.csproj.AssemblyReference.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\obj\Debug\net8.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfoInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfo.cs
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\obj\Debug\net8.0\IRepository.csproj.CoreCompileInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\obj\Debug\net8.0\IReposit.1D40EF52.Up2Date
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\obj\Debug\net8.0\IRepository.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\obj\Debug\net8.0\refint\IRepository.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\obj\Debug\net8.0\IRepository.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\IRepository\obj\Debug\net8.0\ref\IRepository.dll

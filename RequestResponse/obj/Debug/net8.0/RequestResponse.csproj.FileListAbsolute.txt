@@ -1,0 +1,92 @@
+D:\modulo3\AAAAA\RequestResponse\bin\Debug\net8.0\RequestResponse.deps.json
+D:\modulo3\AAAAA\RequestResponse\bin\Debug\net8.0\RequestResponse.runtimeconfig.json
+D:\modulo3\AAAAA\RequestResponse\bin\Debug\net8.0\RequestResponse.dll
+D:\modulo3\AAAAA\RequestResponse\bin\Debug\net8.0\RequestResponse.pdb
+D:\modulo3\AAAAA\RequestResponse\obj\Debug\net8.0\RequestResponse.csproj.AssemblyReference.cache
+D:\modulo3\AAAAA\RequestResponse\obj\Debug\net8.0\RequestResponse.GeneratedMSBuildEditorConfig.editorconfig
+D:\modulo3\AAAAA\RequestResponse\obj\Debug\net8.0\RequestResponse.AssemblyInfoInputs.cache
+D:\modulo3\AAAAA\RequestResponse\obj\Debug\net8.0\RequestResponse.AssemblyInfo.cs
+D:\modulo3\AAAAA\RequestResponse\obj\Debug\net8.0\RequestResponse.csproj.CoreCompileInputs.cache
+D:\modulo3\AAAAA\RequestResponse\obj\Debug\net8.0\RequestResponse.dll
+D:\modulo3\AAAAA\RequestResponse\obj\Debug\net8.0\refint\RequestResponse.dll
+D:\modulo3\AAAAA\RequestResponse\obj\Debug\net8.0\RequestResponse.pdb
+D:\modulo3\AAAAA\RequestResponse\obj\Debug\net8.0\RequestResponse.genruntimeconfig.cache
+D:\modulo3\AAAAA\RequestResponse\obj\Debug\net8.0\ref\RequestResponse.dll
+E:\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.csproj.AssemblyReference.cache
+E:\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.GeneratedMSBuildEditorConfig.editorconfig
+E:\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.AssemblyInfoInputs.cache
+E:\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.AssemblyInfo.cs
+E:\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.csproj.CoreCompileInputs.cache
+E:\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.dll
+E:\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\refint\RequestResponse.dll
+E:\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.csproj.AssemblyReference.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACK COPIDA\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.AssemblyInfoInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.AssemblyInfo.cs
+D:\BACK COPIDA\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.csproj.CoreCompileInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\refint\RequestResponse.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\RequestResponse\bin\Debug\net8.0\RequestResponse.deps.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\RequestResponse\bin\Debug\net8.0\RequestResponse.runtimeconfig.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\RequestResponse\bin\Debug\net8.0\RequestResponse.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\RequestResponse\bin\Debug\net8.0\RequestResponse.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.genruntimeconfig.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\ref\RequestResponse.dll
+E:\LibreriaYazz\BackEnd\RequestResponse\bin\Debug\net8.0\RequestResponse.deps.json
+E:\LibreriaYazz\BackEnd\RequestResponse\bin\Debug\net8.0\RequestResponse.runtimeconfig.json
+E:\LibreriaYazz\BackEnd\RequestResponse\bin\Debug\net8.0\RequestResponse.dll
+E:\LibreriaYazz\BackEnd\RequestResponse\bin\Debug\net8.0\RequestResponse.pdb
+E:\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\RequestResponse.genruntimeconfig.cache
+E:\LibreriaYazz\BackEnd\RequestResponse\obj\Debug\net8.0\ref\RequestResponse.dll
+D:\DATA C\LibreriaBack\RequestResponse\bin\Debug\net8.0\RequestResponse.deps.json
+D:\DATA C\LibreriaBack\RequestResponse\bin\Debug\net8.0\RequestResponse.runtimeconfig.json
+D:\DATA C\LibreriaBack\RequestResponse\bin\Debug\net8.0\RequestResponse.dll
+D:\DATA C\LibreriaBack\RequestResponse\bin\Debug\net8.0\RequestResponse.pdb
+D:\DATA C\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.AssemblyInfo.cs
+D:\DATA C\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.sourcelink.json
+D:\DATA C\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.dll
+D:\DATA C\LibreriaBack\RequestResponse\obj\Debug\net8.0\refint\RequestResponse.dll
+D:\DATA C\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.pdb
+D:\DATA C\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.genruntimeconfig.cache
+D:\DATA C\LibreriaBack\RequestResponse\obj\Debug\net8.0\ref\RequestResponse.dll
+D:\DATA C\LibreriaBack1\RequestResponse\bin\Debug\net8.0\RequestResponse.deps.json
+D:\DATA C\LibreriaBack1\RequestResponse\bin\Debug\net8.0\RequestResponse.runtimeconfig.json
+D:\DATA C\LibreriaBack1\RequestResponse\bin\Debug\net8.0\RequestResponse.dll
+D:\DATA C\LibreriaBack1\RequestResponse\bin\Debug\net8.0\RequestResponse.pdb
+D:\DATA C\LibreriaBack1\RequestResponse\obj\Debug\net8.0\RequestResponse.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack1\RequestResponse\obj\Debug\net8.0\RequestResponse.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack1\RequestResponse\obj\Debug\net8.0\RequestResponse.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack1\RequestResponse\obj\Debug\net8.0\RequestResponse.AssemblyInfo.cs
+D:\DATA C\LibreriaBack1\RequestResponse\obj\Debug\net8.0\RequestResponse.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack1\RequestResponse\obj\Debug\net8.0\RequestResponse.sourcelink.json
+D:\DATA C\LibreriaBack1\RequestResponse\obj\Debug\net8.0\RequestResponse.dll
+D:\DATA C\LibreriaBack1\RequestResponse\obj\Debug\net8.0\refint\RequestResponse.dll
+D:\DATA C\LibreriaBack1\RequestResponse\obj\Debug\net8.0\RequestResponse.pdb
+D:\DATA C\LibreriaBack1\RequestResponse\obj\Debug\net8.0\RequestResponse.genruntimeconfig.cache
+D:\DATA C\LibreriaBack1\RequestResponse\obj\Debug\net8.0\ref\RequestResponse.dll
+D:\DATA C\LibreriaBack1\RequestResponse\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA C\LibreriaBack1\RequestResponse\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA C\LibreriaBack1\RequestResponse\obj\Debug\net8.0\RequestR.377D2EF7.Up2Date
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\bin\Debug\net8.0\RequestResponse.deps.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\bin\Debug\net8.0\RequestResponse.runtimeconfig.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\bin\Debug\net8.0\RequestResponse.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\bin\Debug\net8.0\RequestResponse.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.csproj.AssemblyReference.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.AssemblyInfoInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.AssemblyInfo.cs
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.csproj.CoreCompileInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestR.377D2EF7.Up2Date
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\obj\Debug\net8.0\refint\RequestResponse.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\obj\Debug\net8.0\RequestResponse.genruntimeconfig.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\RequestResponse\obj\Debug\net8.0\ref\RequestResponse.dll

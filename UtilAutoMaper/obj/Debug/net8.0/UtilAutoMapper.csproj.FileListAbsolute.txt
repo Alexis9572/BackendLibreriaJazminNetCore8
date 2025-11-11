@@ -1,0 +1,87 @@
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.csproj.AssemblyReference.cache
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.AssemblyInfoInputs.cache
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.AssemblyInfo.cs
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.csproj.CoreCompileInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.csproj.AssemblyReference.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.AssemblyInfoInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.AssemblyInfo.cs
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.csproj.CoreCompileInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMapper.deps.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMapper.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMapper.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\bin\Debug\net8.0\DBLibreria.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\bin\Debug\net8.0\RequestResponse.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\bin\Debug\net8.0\DBLibreria.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\bin\Debug\net8.0\RequestResponse.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.csproj.CopyComplete
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\refint\UtilAutoMapper.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\ref\UtilAutoMapper.dll
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMapper.deps.json
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMapper.dll
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMapper.pdb
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\bin\Debug\net8.0\DBLibreria.dll
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\bin\Debug\net8.0\RequestResponse.dll
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\bin\Debug\net8.0\DBLibreria.pdb
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\bin\Debug\net8.0\RequestResponse.pdb
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAuto.64229196.Up2Date
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.dll
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\refint\UtilAutoMapper.dll
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.pdb
+E:\LibreriaYazz\BackEnd\UtilAutoMaper\obj\Debug\net8.0\ref\UtilAutoMapper.dll
+D:\DATA C\LibreriaBack\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMapper.deps.json
+D:\DATA C\LibreriaBack\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMapper.dll
+D:\DATA C\LibreriaBack\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMapper.pdb
+D:\DATA C\LibreriaBack\UtilAutoMaper\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA C\LibreriaBack\UtilAutoMaper\bin\Debug\net8.0\RequestResponse.dll
+D:\DATA C\LibreriaBack\UtilAutoMaper\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA C\LibreriaBack\UtilAutoMaper\bin\Debug\net8.0\RequestResponse.pdb
+D:\DATA C\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.AssemblyInfo.cs
+D:\DATA C\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.sourcelink.json
+D:\DATA C\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAuto.64229196.Up2Date
+D:\DATA C\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.dll
+D:\DATA C\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\refint\UtilAutoMapper.dll
+D:\DATA C\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.pdb
+D:\DATA C\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\ref\UtilAutoMapper.dll
+D:\DATA C\LibreriaBack1\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMapper.deps.json
+D:\DATA C\LibreriaBack1\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMapper.dll
+D:\DATA C\LibreriaBack1\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMapper.pdb
+D:\DATA C\LibreriaBack1\UtilAutoMaper\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA C\LibreriaBack1\UtilAutoMaper\bin\Debug\net8.0\RequestResponse.dll
+D:\DATA C\LibreriaBack1\UtilAutoMaper\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA C\LibreriaBack1\UtilAutoMaper\bin\Debug\net8.0\RequestResponse.pdb
+D:\DATA C\LibreriaBack1\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack1\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack1\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack1\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.AssemblyInfo.cs
+D:\DATA C\LibreriaBack1\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack1\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.sourcelink.json
+D:\DATA C\LibreriaBack1\UtilAutoMaper\obj\Debug\net8.0\UtilAuto.64229196.Up2Date
+D:\DATA C\LibreriaBack1\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.dll
+D:\DATA C\LibreriaBack1\UtilAutoMaper\obj\Debug\net8.0\refint\UtilAutoMapper.dll
+D:\DATA C\LibreriaBack1\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.pdb
+D:\DATA C\LibreriaBack1\UtilAutoMaper\obj\Debug\net8.0\ref\UtilAutoMapper.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMapper.deps.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMapper.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMapper.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\bin\Debug\net8.0\RequestResponse.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\bin\Debug\net8.0\RequestResponse.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.csproj.AssemblyReference.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.AssemblyInfoInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.AssemblyInfo.cs
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.csproj.CoreCompileInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAuto.64229196.Up2Date
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\refint\UtilAutoMapper.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMapper.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilAutoMaper\obj\Debug\net8.0\ref\UtilAutoMapper.dll

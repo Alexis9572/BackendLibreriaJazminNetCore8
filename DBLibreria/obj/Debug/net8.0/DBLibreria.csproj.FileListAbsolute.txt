@@ -1,0 +1,84 @@
+D:\modulo3\AAAAA\DBLibreria\bin\Debug\net8.0\DBLibreria.deps.json
+D:\modulo3\AAAAA\DBLibreria\bin\Debug\net8.0\DBLibreria.dll
+D:\modulo3\AAAAA\DBLibreria\bin\Debug\net8.0\DBLibreria.pdb
+D:\modulo3\AAAAA\DBLibreria\obj\Debug\net8.0\DBLibreria.csproj.AssemblyReference.cache
+D:\modulo3\AAAAA\DBLibreria\obj\Debug\net8.0\DBLibreria.GeneratedMSBuildEditorConfig.editorconfig
+D:\modulo3\AAAAA\DBLibreria\obj\Debug\net8.0\DBLibreria.AssemblyInfoInputs.cache
+D:\modulo3\AAAAA\DBLibreria\obj\Debug\net8.0\DBLibreria.AssemblyInfo.cs
+D:\modulo3\AAAAA\DBLibreria\obj\Debug\net8.0\DBLibreria.csproj.CoreCompileInputs.cache
+D:\modulo3\AAAAA\DBLibreria\obj\Debug\net8.0\DBLibreria.dll
+D:\modulo3\AAAAA\DBLibreria\obj\Debug\net8.0\refint\DBLibreria.dll
+D:\modulo3\AAAAA\DBLibreria\obj\Debug\net8.0\DBLibreria.pdb
+D:\modulo3\AAAAA\DBLibreria\obj\Debug\net8.0\ref\DBLibreria.dll
+E:\LibreriaYazz\BackEnd\DBLibreria\bin\Debug\net8.0\DBLibreria.deps.json
+E:\LibreriaYazz\BackEnd\DBLibreria\bin\Debug\net8.0\DBLibreria.runtimeconfig.json
+E:\LibreriaYazz\BackEnd\DBLibreria\bin\Debug\net8.0\DBLibreria.dll
+E:\LibreriaYazz\BackEnd\DBLibreria\bin\Debug\net8.0\DBLibreria.pdb
+E:\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.csproj.AssemblyReference.cache
+E:\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.GeneratedMSBuildEditorConfig.editorconfig
+E:\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.AssemblyInfoInputs.cache
+E:\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.AssemblyInfo.cs
+E:\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.csproj.CoreCompileInputs.cache
+E:\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.dll
+E:\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\refint\DBLibreria.dll
+E:\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.pdb
+E:\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.genruntimeconfig.cache
+E:\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\ref\DBLibreria.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\DBLibreria\bin\Debug\net8.0\DBLibreria.deps.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\DBLibreria\bin\Debug\net8.0\DBLibreria.runtimeconfig.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\DBLibreria\bin\Debug\net8.0\DBLibreria.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\DBLibreria\bin\Debug\net8.0\DBLibreria.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.csproj.AssemblyReference.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACK COPIDA\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.AssemblyInfoInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.AssemblyInfo.cs
+D:\BACK COPIDA\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.csproj.CoreCompileInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\refint\DBLibreria.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\DBLibreria.genruntimeconfig.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\DBLibreria\obj\Debug\net8.0\ref\DBLibreria.dll
+D:\DATA C\LibreriaBack\DBLibreria\bin\Debug\net8.0\DBLibreria.deps.json
+D:\DATA C\LibreriaBack\DBLibreria\bin\Debug\net8.0\DBLibreria.runtimeconfig.json
+D:\DATA C\LibreriaBack\DBLibreria\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA C\LibreriaBack\DBLibreria\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA C\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.AssemblyInfo.cs
+D:\DATA C\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.sourcelink.json
+D:\DATA C\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.dll
+D:\DATA C\LibreriaBack\DBLibreria\obj\Debug\net8.0\refint\DBLibreria.dll
+D:\DATA C\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.pdb
+D:\DATA C\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.genruntimeconfig.cache
+D:\DATA C\LibreriaBack\DBLibreria\obj\Debug\net8.0\ref\DBLibreria.dll
+D:\DATA C\LibreriaBack1\DBLibreria\bin\Debug\net8.0\DBLibreria.deps.json
+D:\DATA C\LibreriaBack1\DBLibreria\bin\Debug\net8.0\DBLibreria.runtimeconfig.json
+D:\DATA C\LibreriaBack1\DBLibreria\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA C\LibreriaBack1\DBLibreria\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA C\LibreriaBack1\DBLibreria\obj\Debug\net8.0\DBLibreria.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack1\DBLibreria\obj\Debug\net8.0\DBLibreria.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack1\DBLibreria\obj\Debug\net8.0\DBLibreria.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack1\DBLibreria\obj\Debug\net8.0\DBLibreria.AssemblyInfo.cs
+D:\DATA C\LibreriaBack1\DBLibreria\obj\Debug\net8.0\DBLibreria.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack1\DBLibreria\obj\Debug\net8.0\DBLibreria.sourcelink.json
+D:\DATA C\LibreriaBack1\DBLibreria\obj\Debug\net8.0\DBLibreria.dll
+D:\DATA C\LibreriaBack1\DBLibreria\obj\Debug\net8.0\refint\DBLibreria.dll
+D:\DATA C\LibreriaBack1\DBLibreria\obj\Debug\net8.0\DBLibreria.pdb
+D:\DATA C\LibreriaBack1\DBLibreria\obj\Debug\net8.0\DBLibreria.genruntimeconfig.cache
+D:\DATA C\LibreriaBack1\DBLibreria\obj\Debug\net8.0\ref\DBLibreria.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\bin\Debug\net8.0\DBLibreria.deps.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\bin\Debug\net8.0\DBLibreria.runtimeconfig.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.csproj.AssemblyReference.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.AssemblyInfoInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.AssemblyInfo.cs
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.csproj.CoreCompileInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Debug\net8.0\refint\DBLibreria.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Debug\net8.0\DBLibreria.genruntimeconfig.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Debug\net8.0\ref\DBLibreria.dll

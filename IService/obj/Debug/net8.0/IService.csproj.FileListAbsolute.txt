@@ -1,0 +1,70 @@
+D:\modulo3\AAAAA\IService\bin\Debug\net8.0\IService.deps.json
+D:\modulo3\AAAAA\IService\bin\Debug\net8.0\IService.dll
+D:\modulo3\AAAAA\IService\bin\Debug\net8.0\IService.pdb
+D:\modulo3\AAAAA\IService\obj\Debug\net8.0\IService.GeneratedMSBuildEditorConfig.editorconfig
+D:\modulo3\AAAAA\IService\obj\Debug\net8.0\IService.AssemblyInfoInputs.cache
+D:\modulo3\AAAAA\IService\obj\Debug\net8.0\IService.AssemblyInfo.cs
+D:\modulo3\AAAAA\IService\obj\Debug\net8.0\IService.csproj.CoreCompileInputs.cache
+D:\modulo3\AAAAA\IService\obj\Debug\net8.0\IService.dll
+D:\modulo3\AAAAA\IService\obj\Debug\net8.0\refint\IService.dll
+D:\modulo3\AAAAA\IService\obj\Debug\net8.0\IService.pdb
+D:\modulo3\AAAAA\IService\obj\Debug\net8.0\ref\IService.dll
+E:\LibreriaYazz\BackEnd\IService\bin\Debug\net8.0\IService.deps.json
+E:\LibreriaYazz\BackEnd\IService\bin\Debug\net8.0\IService.dll
+E:\LibreriaYazz\BackEnd\IService\bin\Debug\net8.0\IService.pdb
+E:\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\IService.GeneratedMSBuildEditorConfig.editorconfig
+E:\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\IService.AssemblyInfoInputs.cache
+E:\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\IService.AssemblyInfo.cs
+E:\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\IService.csproj.CoreCompileInputs.cache
+E:\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\IService.dll
+E:\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\refint\IService.dll
+E:\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\IService.pdb
+E:\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\ref\IService.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IService\bin\Debug\net8.0\IService.deps.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IService\bin\Debug\net8.0\IService.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IService\bin\Debug\net8.0\IService.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\IService.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\IService.AssemblyInfoInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\IService.AssemblyInfo.cs
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\IService.csproj.CoreCompileInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\IService.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\refint\IService.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\IService.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IService\obj\Debug\net8.0\ref\IService.dll
+D:\DATA C\LibreriaBack\IService\bin\Debug\net8.0\IService.deps.json
+D:\DATA C\LibreriaBack\IService\bin\Debug\net8.0\IService.dll
+D:\DATA C\LibreriaBack\IService\bin\Debug\net8.0\IService.pdb
+D:\DATA C\LibreriaBack\IService\obj\Debug\net8.0\IService.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack\IService\obj\Debug\net8.0\IService.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack\IService\obj\Debug\net8.0\IService.AssemblyInfo.cs
+D:\DATA C\LibreriaBack\IService\obj\Debug\net8.0\IService.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack\IService\obj\Debug\net8.0\IService.sourcelink.json
+D:\DATA C\LibreriaBack\IService\obj\Debug\net8.0\IService.dll
+D:\DATA C\LibreriaBack\IService\obj\Debug\net8.0\refint\IService.dll
+D:\DATA C\LibreriaBack\IService\obj\Debug\net8.0\IService.pdb
+D:\DATA C\LibreriaBack\IService\obj\Debug\net8.0\ref\IService.dll
+D:\DATA C\LibreriaBack1\IService\bin\Debug\net8.0\IService.deps.json
+D:\DATA C\LibreriaBack1\IService\bin\Debug\net8.0\IService.dll
+D:\DATA C\LibreriaBack1\IService\bin\Debug\net8.0\IService.pdb
+D:\DATA C\LibreriaBack1\IService\obj\Debug\net8.0\IService.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack1\IService\obj\Debug\net8.0\IService.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack1\IService\obj\Debug\net8.0\IService.AssemblyInfo.cs
+D:\DATA C\LibreriaBack1\IService\obj\Debug\net8.0\IService.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack1\IService\obj\Debug\net8.0\IService.sourcelink.json
+D:\DATA C\LibreriaBack1\IService\obj\Debug\net8.0\IService.dll
+D:\DATA C\LibreriaBack1\IService\obj\Debug\net8.0\refint\IService.dll
+D:\DATA C\LibreriaBack1\IService\obj\Debug\net8.0\IService.pdb
+D:\DATA C\LibreriaBack1\IService\obj\Debug\net8.0\ref\IService.dll
+D:\DATA C\LibreriaBack1\IService\obj\Debug\net8.0\IService.csproj.AssemblyReference.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\IService\bin\Debug\net8.0\IService.deps.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\IService\bin\Debug\net8.0\IService.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\IService\bin\Debug\net8.0\IService.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\IService\obj\Debug\net8.0\IService.csproj.AssemblyReference.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\IService\obj\Debug\net8.0\IService.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Alex\Diseno Web\LibreriaBack\IService\obj\Debug\net8.0\IService.AssemblyInfoInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\IService\obj\Debug\net8.0\IService.AssemblyInfo.cs
+D:\DATA\Alex\Diseno Web\LibreriaBack\IService\obj\Debug\net8.0\IService.csproj.CoreCompileInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\IService\obj\Debug\net8.0\IService.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\IService\obj\Debug\net8.0\refint\IService.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\IService\obj\Debug\net8.0\IService.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\IService\obj\Debug\net8.0\ref\IService.dll

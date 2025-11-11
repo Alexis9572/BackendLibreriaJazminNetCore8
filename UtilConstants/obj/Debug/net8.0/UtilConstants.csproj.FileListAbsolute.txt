@@ -1,0 +1,74 @@
+D:\modulo3\AAAAA\UtilConstants\bin\Debug\net8.0\UtilConstants.deps.json
+D:\modulo3\AAAAA\UtilConstants\bin\Debug\net8.0\UtilConstants.dll
+D:\modulo3\AAAAA\UtilConstants\bin\Debug\net8.0\UtilConstants.pdb
+D:\modulo3\AAAAA\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.AssemblyReference.cache
+D:\modulo3\AAAAA\UtilConstants\obj\Debug\net8.0\UtilConstants.GeneratedMSBuildEditorConfig.editorconfig
+D:\modulo3\AAAAA\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfoInputs.cache
+D:\modulo3\AAAAA\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfo.cs
+D:\modulo3\AAAAA\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.CoreCompileInputs.cache
+D:\modulo3\AAAAA\UtilConstants\obj\Debug\net8.0\UtilConstants.dll
+D:\modulo3\AAAAA\UtilConstants\obj\Debug\net8.0\refint\UtilConstants.dll
+D:\modulo3\AAAAA\UtilConstants\obj\Debug\net8.0\UtilConstants.pdb
+D:\modulo3\AAAAA\UtilConstants\obj\Debug\net8.0\ref\UtilConstants.dll
+E:\LibreriaYazz\BackEnd\UtilConstants\bin\Debug\net8.0\UtilConstants.deps.json
+E:\LibreriaYazz\BackEnd\UtilConstants\bin\Debug\net8.0\UtilConstants.dll
+E:\LibreriaYazz\BackEnd\UtilConstants\bin\Debug\net8.0\UtilConstants.pdb
+E:\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.AssemblyReference.cache
+E:\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\UtilConstants.GeneratedMSBuildEditorConfig.editorconfig
+E:\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfoInputs.cache
+E:\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfo.cs
+E:\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.CoreCompileInputs.cache
+E:\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\UtilConstants.dll
+E:\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\refint\UtilConstants.dll
+E:\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\UtilConstants.pdb
+E:\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\ref\UtilConstants.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilConstants\bin\Debug\net8.0\UtilConstants.deps.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilConstants\bin\Debug\net8.0\UtilConstants.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilConstants\bin\Debug\net8.0\UtilConstants.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.AssemblyReference.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\UtilConstants.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfoInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfo.cs
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.CoreCompileInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\UtilConstants.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\refint\UtilConstants.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\UtilConstants.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilConstants\obj\Debug\net8.0\ref\UtilConstants.dll
+D:\DATA C\LibreriaBack\UtilConstants\bin\Debug\net8.0\UtilConstants.deps.json
+D:\DATA C\LibreriaBack\UtilConstants\bin\Debug\net8.0\UtilConstants.dll
+D:\DATA C\LibreriaBack\UtilConstants\bin\Debug\net8.0\UtilConstants.pdb
+D:\DATA C\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfo.cs
+D:\DATA C\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.sourcelink.json
+D:\DATA C\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.dll
+D:\DATA C\LibreriaBack\UtilConstants\obj\Debug\net8.0\refint\UtilConstants.dll
+D:\DATA C\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.pdb
+D:\DATA C\LibreriaBack\UtilConstants\obj\Debug\net8.0\ref\UtilConstants.dll
+D:\DATA C\LibreriaBack1\UtilConstants\bin\Debug\net8.0\UtilConstants.deps.json
+D:\DATA C\LibreriaBack1\UtilConstants\bin\Debug\net8.0\UtilConstants.dll
+D:\DATA C\LibreriaBack1\UtilConstants\bin\Debug\net8.0\UtilConstants.pdb
+D:\DATA C\LibreriaBack1\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack1\UtilConstants\obj\Debug\net8.0\UtilConstants.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack1\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack1\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfo.cs
+D:\DATA C\LibreriaBack1\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack1\UtilConstants\obj\Debug\net8.0\UtilConstants.sourcelink.json
+D:\DATA C\LibreriaBack1\UtilConstants\obj\Debug\net8.0\UtilConstants.dll
+D:\DATA C\LibreriaBack1\UtilConstants\obj\Debug\net8.0\refint\UtilConstants.dll
+D:\DATA C\LibreriaBack1\UtilConstants\obj\Debug\net8.0\UtilConstants.pdb
+D:\DATA C\LibreriaBack1\UtilConstants\obj\Debug\net8.0\ref\UtilConstants.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\bin\Debug\net8.0\UtilConstants.deps.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\bin\Debug\net8.0\UtilConstants.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\bin\Debug\net8.0\UtilConstants.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.AssemblyReference.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfoInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfo.cs
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.CoreCompileInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\obj\Debug\net8.0\refint\UtilConstants.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\obj\Debug\net8.0\ref\UtilConstants.dll

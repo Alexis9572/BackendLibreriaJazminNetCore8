@@ -1,0 +1,14 @@
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\bin\Release\net8.0\CommonModel.deps.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\bin\Release\net8.0\CommonModel.runtimeconfig.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\bin\Release\net8.0\CommonModel.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\bin\Release\net8.0\CommonModel.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Release\net8.0\CommonModel.csproj.AssemblyReference.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Release\net8.0\CommonModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Release\net8.0\CommonModel.AssemblyInfoInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Release\net8.0\CommonModel.AssemblyInfo.cs
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Release\net8.0\CommonModel.csproj.CoreCompileInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Release\net8.0\CommonModel.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Release\net8.0\refint\CommonModel.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Release\net8.0\CommonModel.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Release\net8.0\CommonModel.genruntimeconfig.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Release\net8.0\ref\CommonModel.dll

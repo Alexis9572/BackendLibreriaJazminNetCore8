@@ -1,0 +1,92 @@
+D:\modulo3\AAAAA\IBusniess\bin\Debug\net8.0\IBusniess.deps.json
+D:\modulo3\AAAAA\IBusniess\bin\Debug\net8.0\IBusniess.dll
+D:\modulo3\AAAAA\IBusniess\bin\Debug\net8.0\IBusniess.pdb
+D:\modulo3\AAAAA\IBusniess\obj\Debug\net8.0\IBusniess.GeneratedMSBuildEditorConfig.editorconfig
+D:\modulo3\AAAAA\IBusniess\obj\Debug\net8.0\IBusniess.AssemblyInfoInputs.cache
+D:\modulo3\AAAAA\IBusniess\obj\Debug\net8.0\IBusniess.AssemblyInfo.cs
+D:\modulo3\AAAAA\IBusniess\obj\Debug\net8.0\IBusniess.csproj.CoreCompileInputs.cache
+D:\modulo3\AAAAA\IBusniess\obj\Debug\net8.0\IBusniess.dll
+D:\modulo3\AAAAA\IBusniess\obj\Debug\net8.0\refint\IBusniess.dll
+D:\modulo3\AAAAA\IBusniess\obj\Debug\net8.0\IBusniess.pdb
+D:\modulo3\AAAAA\IBusniess\obj\Debug\net8.0\ref\IBusniess.dll
+E:\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.csproj.AssemblyReference.cache
+E:\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.GeneratedMSBuildEditorConfig.editorconfig
+E:\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.AssemblyInfoInputs.cache
+E:\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.AssemblyInfo.cs
+E:\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.csproj.CoreCompileInputs.cache
+E:\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.dll
+E:\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\refint\IBusniess.dll
+E:\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.csproj.AssemblyReference.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.AssemblyInfoInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.AssemblyInfo.cs
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.csproj.CoreCompileInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\refint\IBusniess.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IBusniess\bin\Debug\net8.0\IBusniess.deps.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IBusniess\bin\Debug\net8.0\IBusniess.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IBusniess\bin\Debug\net8.0\IBusniess.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IBusniess\bin\Debug\net8.0\RequestResponse.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IBusniess\bin\Debug\net8.0\RequestResponse.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.csproj.CopyComplete
+D:\BACK COPIDA\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\ref\IBusniess.dll
+E:\LibreriaYazz\BackEnd\IBusniess\bin\Debug\net8.0\IBusniess.deps.json
+E:\LibreriaYazz\BackEnd\IBusniess\bin\Debug\net8.0\IBusniess.dll
+E:\LibreriaYazz\BackEnd\IBusniess\bin\Debug\net8.0\IBusniess.pdb
+E:\LibreriaYazz\BackEnd\IBusniess\bin\Debug\net8.0\RequestResponse.dll
+E:\LibreriaYazz\BackEnd\IBusniess\bin\Debug\net8.0\RequestResponse.pdb
+E:\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\IBusniess.csproj.Up2Date
+E:\LibreriaYazz\BackEnd\IBusniess\obj\Debug\net8.0\ref\IBusniess.dll
+D:\DATA C\LibreriaBack\IBusniess\bin\Debug\net8.0\IBusniess.deps.json
+D:\DATA C\LibreriaBack\IBusniess\bin\Debug\net8.0\IBusniess.dll
+D:\DATA C\LibreriaBack\IBusniess\bin\Debug\net8.0\IBusniess.pdb
+D:\DATA C\LibreriaBack\IBusniess\bin\Debug\net8.0\RequestResponse.dll
+D:\DATA C\LibreriaBack\IBusniess\bin\Debug\net8.0\RequestResponse.pdb
+D:\DATA C\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.AssemblyInfo.cs
+D:\DATA C\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.sourcelink.json
+D:\DATA C\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.csproj.Up2Date
+D:\DATA C\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.dll
+D:\DATA C\LibreriaBack\IBusniess\obj\Debug\net8.0\refint\IBusniess.dll
+D:\DATA C\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.pdb
+D:\DATA C\LibreriaBack\IBusniess\obj\Debug\net8.0\ref\IBusniess.dll
+D:\DATA C\LibreriaBack1\IBusniess\bin\Debug\net8.0\IBusniess.deps.json
+D:\DATA C\LibreriaBack1\IBusniess\bin\Debug\net8.0\IBusniess.dll
+D:\DATA C\LibreriaBack1\IBusniess\bin\Debug\net8.0\IBusniess.pdb
+D:\DATA C\LibreriaBack1\IBusniess\bin\Debug\net8.0\RequestResponse.dll
+D:\DATA C\LibreriaBack1\IBusniess\bin\Debug\net8.0\RequestResponse.pdb
+D:\DATA C\LibreriaBack1\IBusniess\obj\Debug\net8.0\IBusniess.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack1\IBusniess\obj\Debug\net8.0\IBusniess.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack1\IBusniess\obj\Debug\net8.0\IBusniess.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack1\IBusniess\obj\Debug\net8.0\IBusniess.AssemblyInfo.cs
+D:\DATA C\LibreriaBack1\IBusniess\obj\Debug\net8.0\IBusniess.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack1\IBusniess\obj\Debug\net8.0\IBusniess.sourcelink.json
+D:\DATA C\LibreriaBack1\IBusniess\obj\Debug\net8.0\IBusniess.csproj.Up2Date
+D:\DATA C\LibreriaBack1\IBusniess\obj\Debug\net8.0\IBusniess.dll
+D:\DATA C\LibreriaBack1\IBusniess\obj\Debug\net8.0\refint\IBusniess.dll
+D:\DATA C\LibreriaBack1\IBusniess\obj\Debug\net8.0\IBusniess.pdb
+D:\DATA C\LibreriaBack1\IBusniess\obj\Debug\net8.0\ref\IBusniess.dll
+D:\DATA C\LibreriaBack1\IBusniess\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA C\LibreriaBack1\IBusniess\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\bin\Debug\net8.0\IBusniess.deps.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\bin\Debug\net8.0\IBusniess.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\bin\Debug\net8.0\IBusniess.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\bin\Debug\net8.0\RequestResponse.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\bin\Debug\net8.0\RequestResponse.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.csproj.AssemblyReference.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.AssemblyInfoInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.AssemblyInfo.cs
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.csproj.CoreCompileInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.csproj.Up2Date
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\obj\Debug\net8.0\refint\IBusniess.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\obj\Debug\net8.0\IBusniess.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\IBusniess\obj\Debug\net8.0\ref\IBusniess.dll

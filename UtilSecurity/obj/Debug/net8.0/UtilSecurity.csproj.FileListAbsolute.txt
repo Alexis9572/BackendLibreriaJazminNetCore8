@@ -1,0 +1,74 @@
+D:\modulo3\AAAAA\UtilSecurity\bin\Debug\net8.0\UtilSecurity.deps.json
+D:\modulo3\AAAAA\UtilSecurity\bin\Debug\net8.0\UtilSecurity.dll
+D:\modulo3\AAAAA\UtilSecurity\bin\Debug\net8.0\UtilSecurity.pdb
+D:\modulo3\AAAAA\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.AssemblyReference.cache
+D:\modulo3\AAAAA\UtilSecurity\obj\Debug\net8.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+D:\modulo3\AAAAA\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfoInputs.cache
+D:\modulo3\AAAAA\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfo.cs
+D:\modulo3\AAAAA\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.CoreCompileInputs.cache
+D:\modulo3\AAAAA\UtilSecurity\obj\Debug\net8.0\UtilSecurity.dll
+D:\modulo3\AAAAA\UtilSecurity\obj\Debug\net8.0\refint\UtilSecurity.dll
+D:\modulo3\AAAAA\UtilSecurity\obj\Debug\net8.0\UtilSecurity.pdb
+D:\modulo3\AAAAA\UtilSecurity\obj\Debug\net8.0\ref\UtilSecurity.dll
+E:\LibreriaYazz\BackEnd\UtilSecurity\bin\Debug\net8.0\UtilSecurity.deps.json
+E:\LibreriaYazz\BackEnd\UtilSecurity\bin\Debug\net8.0\UtilSecurity.dll
+E:\LibreriaYazz\BackEnd\UtilSecurity\bin\Debug\net8.0\UtilSecurity.pdb
+E:\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.AssemblyReference.cache
+E:\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+E:\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfoInputs.cache
+E:\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfo.cs
+E:\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.CoreCompileInputs.cache
+E:\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\UtilSecurity.dll
+E:\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\refint\UtilSecurity.dll
+E:\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\UtilSecurity.pdb
+E:\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\ref\UtilSecurity.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilSecurity\bin\Debug\net8.0\UtilSecurity.deps.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilSecurity\bin\Debug\net8.0\UtilSecurity.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilSecurity\bin\Debug\net8.0\UtilSecurity.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.AssemblyReference.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfoInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfo.cs
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.CoreCompileInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\UtilSecurity.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\refint\UtilSecurity.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\UtilSecurity.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\UtilSecurity\obj\Debug\net8.0\ref\UtilSecurity.dll
+D:\DATA C\LibreriaBack\UtilSecurity\bin\Debug\net8.0\UtilSecurity.deps.json
+D:\DATA C\LibreriaBack\UtilSecurity\bin\Debug\net8.0\UtilSecurity.dll
+D:\DATA C\LibreriaBack\UtilSecurity\bin\Debug\net8.0\UtilSecurity.pdb
+D:\DATA C\LibreriaBack\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack\UtilSecurity\obj\Debug\net8.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfo.cs
+D:\DATA C\LibreriaBack\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack\UtilSecurity\obj\Debug\net8.0\UtilSecurity.sourcelink.json
+D:\DATA C\LibreriaBack\UtilSecurity\obj\Debug\net8.0\UtilSecurity.dll
+D:\DATA C\LibreriaBack\UtilSecurity\obj\Debug\net8.0\refint\UtilSecurity.dll
+D:\DATA C\LibreriaBack\UtilSecurity\obj\Debug\net8.0\UtilSecurity.pdb
+D:\DATA C\LibreriaBack\UtilSecurity\obj\Debug\net8.0\ref\UtilSecurity.dll
+D:\DATA C\LibreriaBack1\UtilSecurity\bin\Debug\net8.0\UtilSecurity.deps.json
+D:\DATA C\LibreriaBack1\UtilSecurity\bin\Debug\net8.0\UtilSecurity.dll
+D:\DATA C\LibreriaBack1\UtilSecurity\bin\Debug\net8.0\UtilSecurity.pdb
+D:\DATA C\LibreriaBack1\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack1\UtilSecurity\obj\Debug\net8.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack1\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack1\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfo.cs
+D:\DATA C\LibreriaBack1\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack1\UtilSecurity\obj\Debug\net8.0\UtilSecurity.sourcelink.json
+D:\DATA C\LibreriaBack1\UtilSecurity\obj\Debug\net8.0\UtilSecurity.dll
+D:\DATA C\LibreriaBack1\UtilSecurity\obj\Debug\net8.0\refint\UtilSecurity.dll
+D:\DATA C\LibreriaBack1\UtilSecurity\obj\Debug\net8.0\UtilSecurity.pdb
+D:\DATA C\LibreriaBack1\UtilSecurity\obj\Debug\net8.0\ref\UtilSecurity.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilSecurity\bin\Debug\net8.0\UtilSecurity.deps.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilSecurity\bin\Debug\net8.0\UtilSecurity.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilSecurity\bin\Debug\net8.0\UtilSecurity.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.AssemblyReference.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilSecurity\obj\Debug\net8.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfoInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfo.cs
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.CoreCompileInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilSecurity\obj\Debug\net8.0\UtilSecurity.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilSecurity\obj\Debug\net8.0\refint\UtilSecurity.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilSecurity\obj\Debug\net8.0\UtilSecurity.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\UtilSecurity\obj\Debug\net8.0\ref\UtilSecurity.dll

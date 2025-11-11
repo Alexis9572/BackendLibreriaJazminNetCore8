@@ -1,0 +1,14 @@
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\bin\Release\net8.0\DBLibreria.deps.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\bin\Release\net8.0\DBLibreria.runtimeconfig.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\bin\Release\net8.0\DBLibreria.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\bin\Release\net8.0\DBLibreria.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Release\net8.0\DBLibreria.csproj.AssemblyReference.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Release\net8.0\DBLibreria.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Release\net8.0\DBLibreria.AssemblyInfoInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Release\net8.0\DBLibreria.AssemblyInfo.cs
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Release\net8.0\DBLibreria.csproj.CoreCompileInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Release\net8.0\DBLibreria.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Release\net8.0\refint\DBLibreria.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Release\net8.0\DBLibreria.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Release\net8.0\DBLibreria.genruntimeconfig.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\DBLibreria\obj\Release\net8.0\ref\DBLibreria.dll

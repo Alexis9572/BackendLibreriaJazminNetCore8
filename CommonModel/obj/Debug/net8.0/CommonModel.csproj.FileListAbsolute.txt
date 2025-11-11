@@ -1,0 +1,86 @@
+D:\modulo3\AAAAA\CommonModel\bin\Debug\net8.0\CommonModel.deps.json
+D:\modulo3\AAAAA\CommonModel\bin\Debug\net8.0\CommonModel.runtimeconfig.json
+D:\modulo3\AAAAA\CommonModel\bin\Debug\net8.0\CommonModel.dll
+D:\modulo3\AAAAA\CommonModel\bin\Debug\net8.0\CommonModel.pdb
+D:\modulo3\AAAAA\CommonModel\obj\Debug\net8.0\CommonModel.csproj.AssemblyReference.cache
+D:\modulo3\AAAAA\CommonModel\obj\Debug\net8.0\CommonModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\modulo3\AAAAA\CommonModel\obj\Debug\net8.0\CommonModel.AssemblyInfoInputs.cache
+D:\modulo3\AAAAA\CommonModel\obj\Debug\net8.0\CommonModel.AssemblyInfo.cs
+D:\modulo3\AAAAA\CommonModel\obj\Debug\net8.0\CommonModel.csproj.CoreCompileInputs.cache
+D:\modulo3\AAAAA\CommonModel\obj\Debug\net8.0\CommonModel.dll
+D:\modulo3\AAAAA\CommonModel\obj\Debug\net8.0\refint\CommonModel.dll
+D:\modulo3\AAAAA\CommonModel\obj\Debug\net8.0\CommonModel.pdb
+D:\modulo3\AAAAA\CommonModel\obj\Debug\net8.0\CommonModel.genruntimeconfig.cache
+D:\modulo3\AAAAA\CommonModel\obj\Debug\net8.0\ref\CommonModel.dll
+E:\LibreriaYazz\BackEnd\CommonModel\bin\Debug\net8.0\CommonModel.deps.json
+E:\LibreriaYazz\BackEnd\CommonModel\bin\Debug\net8.0\CommonModel.runtimeconfig.json
+E:\LibreriaYazz\BackEnd\CommonModel\bin\Debug\net8.0\CommonModel.dll
+E:\LibreriaYazz\BackEnd\CommonModel\bin\Debug\net8.0\CommonModel.pdb
+E:\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.csproj.AssemblyReference.cache
+E:\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.AssemblyInfoInputs.cache
+E:\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.AssemblyInfo.cs
+E:\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.csproj.CoreCompileInputs.cache
+E:\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.dll
+E:\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\refint\CommonModel.dll
+E:\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.pdb
+E:\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.genruntimeconfig.cache
+E:\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\ref\CommonModel.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\CommonModel\bin\Debug\net8.0\CommonModel.deps.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\CommonModel\bin\Debug\net8.0\CommonModel.runtimeconfig.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\CommonModel\bin\Debug\net8.0\CommonModel.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\CommonModel\bin\Debug\net8.0\CommonModel.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.csproj.AssemblyReference.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACK COPIDA\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.AssemblyInfoInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.AssemblyInfo.cs
+D:\BACK COPIDA\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.csproj.CoreCompileInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\refint\CommonModel.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\CommonModel.genruntimeconfig.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\CommonModel\obj\Debug\net8.0\ref\CommonModel.dll
+D:\DATA C\LibreriaBack\CommonModel\bin\Debug\net8.0\CommonModel.deps.json
+D:\DATA C\LibreriaBack\CommonModel\bin\Debug\net8.0\CommonModel.runtimeconfig.json
+D:\DATA C\LibreriaBack\CommonModel\bin\Debug\net8.0\CommonModel.dll
+D:\DATA C\LibreriaBack\CommonModel\bin\Debug\net8.0\CommonModel.pdb
+D:\DATA C\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.AssemblyInfo.cs
+D:\DATA C\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.sourcelink.json
+D:\DATA C\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.dll
+D:\DATA C\LibreriaBack\CommonModel\obj\Debug\net8.0\refint\CommonModel.dll
+D:\DATA C\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.pdb
+D:\DATA C\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.genruntimeconfig.cache
+D:\DATA C\LibreriaBack\CommonModel\obj\Debug\net8.0\ref\CommonModel.dll
+D:\DATA C\LibreriaBack1\CommonModel\bin\Debug\net8.0\CommonModel.deps.json
+D:\DATA C\LibreriaBack1\CommonModel\bin\Debug\net8.0\CommonModel.runtimeconfig.json
+D:\DATA C\LibreriaBack1\CommonModel\bin\Debug\net8.0\CommonModel.dll
+D:\DATA C\LibreriaBack1\CommonModel\bin\Debug\net8.0\CommonModel.pdb
+D:\DATA C\LibreriaBack1\CommonModel\obj\Debug\net8.0\CommonModel.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack1\CommonModel\obj\Debug\net8.0\CommonModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack1\CommonModel\obj\Debug\net8.0\CommonModel.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack1\CommonModel\obj\Debug\net8.0\CommonModel.AssemblyInfo.cs
+D:\DATA C\LibreriaBack1\CommonModel\obj\Debug\net8.0\CommonModel.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack1\CommonModel\obj\Debug\net8.0\CommonModel.sourcelink.json
+D:\DATA C\LibreriaBack1\CommonModel\obj\Debug\net8.0\CommonModel.dll
+D:\DATA C\LibreriaBack1\CommonModel\obj\Debug\net8.0\refint\CommonModel.dll
+D:\DATA C\LibreriaBack1\CommonModel\obj\Debug\net8.0\CommonModel.pdb
+D:\DATA C\LibreriaBack1\CommonModel\obj\Debug\net8.0\CommonModel.genruntimeconfig.cache
+D:\DATA C\LibreriaBack1\CommonModel\obj\Debug\net8.0\ref\CommonModel.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\bin\Debug\net8.0\CommonModel.deps.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\bin\Debug\net8.0\CommonModel.runtimeconfig.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\bin\Debug\net8.0\CommonModel.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\bin\Debug\net8.0\CommonModel.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.csproj.AssemblyReference.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.AssemblyInfoInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.AssemblyInfo.cs
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.csproj.CoreCompileInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Debug\net8.0\refint\CommonModel.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Debug\net8.0\CommonModel.genruntimeconfig.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\CommonModel\obj\Debug\net8.0\ref\CommonModel.dll

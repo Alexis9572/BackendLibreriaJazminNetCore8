@@ -1,0 +1,994 @@
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\appsettings.json
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.exe
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.deps.json
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.runtimeconfig.json
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.pdb
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Humanizer.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.csproj.AssemblyReference.cache
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.AssemblyInfoInputs.cache
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.AssemblyInfo.cs
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.csproj.CoreCompileInputs.cache
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.LibreriaYazzAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.LibreriaYazzAPI.props
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibreriaYazzAPI.props
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibreriaYazzAPI.props
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\scopedcss\bundle\LibreriaYazzAPI.styles.css
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.csproj.CopyComplete
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\refint\LibreriaYazzAPI.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.pdb
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.genruntimeconfig.cache
+D:\modulo3\AAAAA\LibreriaYazzAPI\obj\Debug\net8.0\ref\LibreriaYazzAPI.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Busniess.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\IBusniess.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\UtilAutoMaper.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\UtilConstants.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\UtilSecurity.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\Busniess.pdb
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\IBusniess.pdb
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\UtilAutoMaper.pdb
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\UtilConstants.pdb
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\UtilSecurity.pdb
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\DBLibreria.dll
+D:\modulo3\AAAAA\LibreriaYazzAPI\bin\Debug\net8.0\DBLibreria.pdb
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.csproj.AssemblyReference.cache
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.AssemblyInfoInputs.cache
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.AssemblyInfo.cs
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.csproj.CoreCompileInputs.cache
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\refint\LibreriaYazzAPI.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.csproj.AssemblyReference.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.AssemblyInfoInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.AssemblyInfo.cs
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.csproj.CoreCompileInputs.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\refint\LibreriaYazzAPI.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\appsettings.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.exe
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.deps.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.runtimeconfig.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Humanizer.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Busniess.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\CommonModel.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\DBLibreria.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\IBusniess.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\IRepository.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\IService.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Repository.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\RequestResponse.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Service.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\UtilAutoMapper.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\UtilConstants.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\UtilSecurity.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Busniess.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\UtilSecurity.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\CommonModel.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\DBLibreria.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\IBusniess.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\IRepository.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\IService.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Repository.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\RequestResponse.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Service.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\UtilAutoMapper.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\UtilConstants.pdb
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.LibreriaYazzAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.LibreriaYazzAPI.props
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibreriaYazzAPI.props
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibreriaYazzAPI.props
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\scopedcss\bundle\LibreriaYazzAPI.styles.css
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.csproj.CopyComplete
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.genruntimeconfig.cache
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\ref\LibreriaYazzAPI.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.xml
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\BACK COPIDA\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.xml
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\appsettings.json
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.staticwebassets.endpoints.json
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.exe
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.deps.json
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.runtimeconfig.json
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.pdb
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.xml
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\AutoMapper.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Humanizer.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.CodeDom.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Busniess.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\CommonModel.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\DBLibreria.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\IBusniess.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\IRepository.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\IService.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Repository.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\RequestResponse.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Service.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\UtilAutoMapper.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\UtilConstants.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\UtilSecurity.dll
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Busniess.pdb
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\UtilSecurity.pdb
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\CommonModel.pdb
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\DBLibreria.pdb
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\IBusniess.pdb
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\IRepository.pdb
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\IService.pdb
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Repository.pdb
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\RequestResponse.pdb
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\Service.pdb
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\UtilAutoMapper.pdb
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\bin\Debug\net8.0\UtilConstants.pdb
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\scopedcss\bundle\LibreriaYazzAPI.styles.css
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.LibreriaYazzAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.LibreriaYazzAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.LibreriaYazzAPI.props
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibreriaYazzAPI.props
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibreriaYazzAPI.props
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\Libreria.DF42214D.Up2Date
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.xml
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.genruntimeconfig.cache
+E:\LibreriaYazz\BackEnd\LibreriaYazzAPI\obj\Debug\net8.0\ref\LibreriaYazzAPI.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\appsettings.json
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.exe
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.deps.json
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.runtimeconfig.json
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.pdb
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.xml
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Humanizer.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Busniess.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\CommonModel.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\IBusniess.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\IRepository.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\IService.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Repository.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\RequestResponse.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Service.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\UtilAutoMapper.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\UtilConstants.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\UtilSecurity.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Busniess.pdb
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\UtilSecurity.pdb
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\CommonModel.pdb
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\IBusniess.pdb
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\IRepository.pdb
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\IService.pdb
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Repository.pdb
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\RequestResponse.pdb
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Service.pdb
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\UtilAutoMapper.pdb
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\UtilConstants.pdb
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.AssemblyInfo.cs
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.sourcelink.json
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.LibreriaYazzAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.LibreriaYazzAPI.props
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibreriaYazzAPI.props
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibreriaYazzAPI.props
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\scopedcss\bundle\LibreriaYazzAPI.styles.css
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\Libreria.DF42214D.Up2Date
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\refint\LibreriaYazzAPI.dll
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.xml
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.pdb
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.genruntimeconfig.cache
+D:\DATA C\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\ref\LibreriaYazzAPI.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\appsettings.json
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.exe
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.deps.json
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.runtimeconfig.json
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.pdb
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.xml
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Humanizer.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Busniess.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\CommonModel.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\IBusniess.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\IRepository.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\IService.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Repository.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\RequestResponse.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Service.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\UtilAutoMapper.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\UtilConstants.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\UtilSecurity.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Busniess.pdb
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\UtilSecurity.pdb
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\CommonModel.pdb
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\IBusniess.pdb
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\IRepository.pdb
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\IService.pdb
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Repository.pdb
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\RequestResponse.pdb
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\Service.pdb
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\UtilAutoMapper.pdb
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\UtilConstants.pdb
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.csproj.AssemblyReference.cache
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.AssemblyInfoInputs.cache
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.AssemblyInfo.cs
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.csproj.CoreCompileInputs.cache
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.sourcelink.json
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.LibreriaYazzAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.LibreriaYazzAPI.props
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibreriaYazzAPI.props
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibreriaYazzAPI.props
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\scopedcss\bundle\LibreriaYazzAPI.styles.css
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\Libreria.DF42214D.Up2Date
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\refint\LibreriaYazzAPI.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.xml
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.pdb
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.genruntimeconfig.cache
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\obj\Debug\net8.0\ref\LibreriaYazzAPI.dll
+D:\DATA C\LibreriaBack1\LibreriaYazzAPI\bin\Debug\net8.0\MercadoPago.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\appsettings.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.exe
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.deps.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.runtimeconfig.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\LibreriaYazzAPI.xml
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Humanizer.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\MercadoPago.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Busniess.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\CommonModel.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\DBLibreria.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\IBusniess.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\IRepository.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\IService.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Repository.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\RequestResponse.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Service.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\UtilAutoMapper.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\UtilConstants.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\UtilSecurity.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Busniess.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\UtilSecurity.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\CommonModel.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\DBLibreria.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\IBusniess.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\IRepository.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\IService.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Repository.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\RequestResponse.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\Service.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\UtilAutoMapper.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\bin\Debug\net8.0\UtilConstants.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.csproj.AssemblyReference.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.AssemblyInfoInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.AssemblyInfo.cs
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.csproj.CoreCompileInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.LibreriaYazzAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.LibreriaYazzAPI.props
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibreriaYazzAPI.props
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibreriaYazzAPI.props
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\scopedcss\bundle\LibreriaYazzAPI.styles.css
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\Libreria.DF42214D.Up2Date
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\refint\LibreriaYazzAPI.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.xml
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\LibreriaYazzAPI.genruntimeconfig.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack\LibreriaYazzAPI\obj\Debug\net8.0\ref\LibreriaYazzAPI.dll

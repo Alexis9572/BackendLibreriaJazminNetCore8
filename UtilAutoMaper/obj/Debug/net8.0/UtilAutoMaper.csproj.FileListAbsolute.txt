@@ -1,0 +1,12 @@
+D:\modulo3\AAAAA\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMaper.deps.json
+D:\modulo3\AAAAA\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMaper.dll
+D:\modulo3\AAAAA\UtilAutoMaper\bin\Debug\net8.0\UtilAutoMaper.pdb
+D:\modulo3\AAAAA\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMaper.csproj.AssemblyReference.cache
+D:\modulo3\AAAAA\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMaper.GeneratedMSBuildEditorConfig.editorconfig
+D:\modulo3\AAAAA\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMaper.AssemblyInfoInputs.cache
+D:\modulo3\AAAAA\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMaper.AssemblyInfo.cs
+D:\modulo3\AAAAA\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMaper.csproj.CoreCompileInputs.cache
+D:\modulo3\AAAAA\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMaper.dll
+D:\modulo3\AAAAA\UtilAutoMaper\obj\Debug\net8.0\refint\UtilAutoMaper.dll
+D:\modulo3\AAAAA\UtilAutoMaper\obj\Debug\net8.0\UtilAutoMaper.pdb
+D:\modulo3\AAAAA\UtilAutoMaper\obj\Debug\net8.0\ref\UtilAutoMaper.dll

@@ -1,0 +1,807 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LibreriaYazzAPI</name>
+    </assembly>
+    <members>
+        <member name="F:LibreriaYazzAPI.Controllers.CalificacioneController._CalificacioneBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.CalificacioneController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Calificacione
+            </summary>
+            <returns>List-CalificacioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.CalificacioneController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>CalificacioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.CalificacioneController.Create(RequestResponse.CalificacioneRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Calificacione
+            </summary>
+            <param name="request">CalificacioneRequest</param>
+            <returns>CalificacioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.CalificacioneController.CreateMultiple(System.Collections.Generic.List{RequestResponse.CalificacioneRequest})">
+            <summary>
+            RETORNA LA TABLA Calificacione EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.CalificacioneController.Update(RequestResponse.CalificacioneRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Calificacione
+            </summary>
+            <param name="request">CalificacioneRequest</param>
+            <returns>CalificacioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.CalificacioneController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.DetallesDevolucioneController._DetallesDevolucioneBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesDevolucioneController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA DetallesDevolucione
+            </summary>
+            <returns>List-DetallesDevolucioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesDevolucioneController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>DetallesDevolucioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesDevolucioneController.Create(RequestResponse.DetallesDevolucioneRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA DetallesDevolucione
+            </summary>
+            <param name="request">DetallesDevolucioneRequest</param>
+            <returns>DetallesDevolucioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesDevolucioneController.CreateMultiple(System.Collections.Generic.List{RequestResponse.DetallesDevolucioneRequest})">
+            <summary>
+            RETORNA LA TABLA DetallesDevolucione EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesDevolucioneController.Update(RequestResponse.DetallesDevolucioneRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA DetallesDevolucione
+            </summary>
+            <param name="request">DetallesDevolucioneRequest</param>
+            <returns>DetallesDevolucioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesDevolucioneController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.DetallesPedidoController._DetallesPedidoBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesPedidoController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA DetallesPedido
+            </summary>
+            <returns>List-DetallesPedidoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesPedidoController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>DetallesPedidoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesPedidoController.Create(RequestResponse.DetallesPedidoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA DetallesPedido
+            </summary>
+            <param name="request">DetallesPedidoRequest</param>
+            <returns>DetallesPedidoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesPedidoController.CreateMultiple(System.Collections.Generic.List{RequestResponse.DetallesPedidoRequest})">
+            <summary>
+            RETORNA LA TABLA DetallesPedido EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesPedidoController.Update(RequestResponse.DetallesPedidoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA DetallesPedido
+            </summary>
+            <param name="request">DetallesPedidoRequest</param>
+            <returns>DetallesPedidoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesPedidoController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.DetallesPromocioneController._DetallesPromocioneBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesPromocioneController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA DetallesPromocione
+            </summary>
+            <returns>List-DetallesPromocioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesPromocioneController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>DetallesPromocioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesPromocioneController.Create(RequestResponse.DetallesPromocioneRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA DetallesPromocione
+            </summary>
+            <param name="request">DetallesPromocioneRequest</param>
+            <returns>DetallesPromocioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesPromocioneController.CreateMultiple(System.Collections.Generic.List{RequestResponse.DetallesPromocioneRequest})">
+            <summary>
+            RETORNA LA TABLA DetallesPromocione EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesPromocioneController.Update(RequestResponse.DetallesPromocioneRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA DetallesPromocione
+            </summary>
+            <param name="request">DetallesPromocioneRequest</param>
+            <returns>DetallesPromocioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesPromocioneController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.DetallesReembolsoController._DetallesReembolsoBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesReembolsoController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA DetallesReembolso
+            </summary>
+            <returns>List-DetallesReembolsoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesReembolsoController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>DetallesReembolsoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesReembolsoController.Create(RequestResponse.DetallesReembolsoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA DetallesReembolso
+            </summary>
+            <param name="request">DetallesReembolsoRequest</param>
+            <returns>DetallesReembolsoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesReembolsoController.CreateMultiple(System.Collections.Generic.List{RequestResponse.DetallesReembolsoRequest})">
+            <summary>
+            RETORNA LA TABLA DetallesReembolso EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesReembolsoController.Update(RequestResponse.DetallesReembolsoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA DetallesReembolso
+            </summary>
+            <param name="request">DetallesReembolsoRequest</param>
+            <returns>DetallesReembolsoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DetallesReembolsoController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.DevolucioneController._DevolucioneBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DevolucioneController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Devolucione
+            </summary>
+            <returns>List-DevolucioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DevolucioneController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>DevolucioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DevolucioneController.Create(RequestResponse.DevolucioneRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Devolucione
+            </summary>
+            <param name="request">DevolucioneRequest</param>
+            <returns>DevolucioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DevolucioneController.CreateMultiple(System.Collections.Generic.List{RequestResponse.DevolucioneRequest})">
+            <summary>
+            RETORNA LA TABLA Devolucione EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DevolucioneController.Update(RequestResponse.DevolucioneRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Devolucione
+            </summary>
+            <param name="request">DevolucioneRequest</param>
+            <returns>DevolucioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.DevolucioneController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.EnvioController._EnvioBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.EnvioController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Envio
+            </summary>
+            <returns>List-EnvioResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.EnvioController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>EnvioResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.EnvioController.Create(RequestResponse.EnvioRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Envio
+            </summary>
+            <param name="request">EnvioRequest</param>
+            <returns>EnvioResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.EnvioController.CreateMultiple(System.Collections.Generic.List{RequestResponse.EnvioRequest})">
+            <summary>
+            RETORNA LA TABLA Envio EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.EnvioController.Update(RequestResponse.EnvioRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Envio
+            </summary>
+            <param name="request">EnvioRequest</param>
+            <returns>EnvioResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.EnvioController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.ImageneController._ImageneBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ImageneController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Imagene
+            </summary>
+            <returns>List-ImageneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ImageneController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>ImageneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ImageneController.Create(RequestResponse.ImageneRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Imagene
+            </summary>
+            <param name="request">ImageneRequest</param>
+            <returns>ImageneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ImageneController.CreateMultiple(System.Collections.Generic.List{RequestResponse.ImageneRequest})">
+            <summary>
+            RETORNA LA TABLA Imagene EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ImageneController.Update(RequestResponse.ImageneRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Imagene
+            </summary>
+            <param name="request">ImageneRequest</param>
+            <returns>ImageneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ImageneController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.PedidoController._PedidoBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PedidoController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Pedido
+            </summary>
+            <returns>List-PedidoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PedidoController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>PedidoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PedidoController.Create(RequestResponse.PedidoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Pedido
+            </summary>
+            <param name="request">PedidoRequest</param>
+            <returns>PedidoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PedidoController.CreateMultiple(System.Collections.Generic.List{RequestResponse.PedidoRequest})">
+            <summary>
+            RETORNA LA TABLA Pedido EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PedidoController.Update(RequestResponse.PedidoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Pedido
+            </summary>
+            <param name="request">PedidoRequest</param>
+            <returns>PedidoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PedidoController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.PersonaController._PersonaBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PersonaController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Persona
+            </summary>
+            <returns>List-PersonaResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PersonaController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>PersonaResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PersonaController.Create(RequestResponse.PersonaRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Persona
+            </summary>
+            <param name="request">PersonaRequest</param>
+            <returns>PersonaResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PersonaController.CreateMultiple(System.Collections.Generic.List{RequestResponse.PersonaRequest})">
+            <summary>
+            RETORNA LA TABLA Persona EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PersonaController.Update(RequestResponse.PersonaRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Persona
+            </summary>
+            <param name="request">PersonaRequest</param>
+            <returns>PersonaResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PersonaController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.ProductoController._ProductoBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProductoController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Producto
+            </summary>
+            <returns>List-ProductoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProductoController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>ProductoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProductoController.Create(RequestResponse.ProductoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Producto
+            </summary>
+            <param name="request">ProductoRequest</param>
+            <returns>ProductoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProductoController.CreateMultiple(System.Collections.Generic.List{RequestResponse.ProductoRequest})">
+            <summary>
+            RETORNA LA TABLA Producto EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProductoController.Update(RequestResponse.ProductoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Producto
+            </summary>
+            <param name="request">ProductoRequest</param>
+            <returns>ProductoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProductoController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.PromocioneController._PromocioneBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PromocioneController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Promocione
+            </summary>
+            <returns>List-PromocioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PromocioneController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>PromocioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PromocioneController.Create(RequestResponse.PromocioneRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Promocione
+            </summary>
+            <param name="request">PromocioneRequest</param>
+            <returns>PromocioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PromocioneController.CreateMultiple(System.Collections.Generic.List{RequestResponse.PromocioneRequest})">
+            <summary>
+            RETORNA LA TABLA Promocione EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PromocioneController.Update(RequestResponse.PromocioneRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Promocione
+            </summary>
+            <param name="request">PromocioneRequest</param>
+            <returns>PromocioneResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.PromocioneController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.ProveedoreController._ProveedoreBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProveedoreController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Proveedore
+            </summary>
+            <returns>List-ProveedoreResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProveedoreController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>ProveedoreResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProveedoreController.Create(RequestResponse.ProveedoreRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Proveedore
+            </summary>
+            <param name="request">ProveedoreRequest</param>
+            <returns>ProveedoreResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProveedoreController.CreateMultiple(System.Collections.Generic.List{RequestResponse.ProveedoreRequest})">
+            <summary>
+            RETORNA LA TABLA Proveedore EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProveedoreController.Update(RequestResponse.ProveedoreRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Proveedore
+            </summary>
+            <param name="request">ProveedoreRequest</param>
+            <returns>ProveedoreResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProveedoreController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.ProveedorProductoController._ProveedorProductoBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProveedorProductoController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA ProveedorProducto
+            </summary>
+            <returns>List-ProveedorProductoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProveedorProductoController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>ProveedorProductoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProveedorProductoController.Create(RequestResponse.ProveedorProductoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA ProveedorProducto
+            </summary>
+            <param name="request">ProveedorProductoRequest</param>
+            <returns>ProveedorProductoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProveedorProductoController.CreateMultiple(System.Collections.Generic.List{RequestResponse.ProveedorProductoRequest})">
+            <summary>
+            RETORNA LA TABLA ProveedorProducto EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProveedorProductoController.Update(RequestResponse.ProveedorProductoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA ProveedorProducto
+            </summary>
+            <param name="request">ProveedorProductoRequest</param>
+            <returns>ProveedorProductoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.ProveedorProductoController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.RolController._RolBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.RolController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Rol
+            </summary>
+            <returns>List-RolResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.RolController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>RolResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.RolController.Create(RequestResponse.RolRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Rol
+            </summary>
+            <param name="request">RolRequest</param>
+            <returns>RolResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.RolController.CreateMultiple(System.Collections.Generic.List{RequestResponse.RolRequest})">
+            <summary>
+            RETORNA LA TABLA Rol EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.RolController.Update(RequestResponse.RolRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Rol
+            </summary>
+            <param name="request">RolRequest</param>
+            <returns>RolResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.RolController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.TipoDocumentoController._TipoDocumentoBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.TipoDocumentoController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA TipoDocumento
+            </summary>
+            <returns>List-TipoDocumentoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.TipoDocumentoController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>TipoDocumentoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.TipoDocumentoController.Create(RequestResponse.TipoDocumentoRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA TipoDocumento
+            </summary>
+            <param name="request">TipoDocumentoRequest</param>
+            <returns>TipoDocumentoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.TipoDocumentoController.CreateMultiple(System.Collections.Generic.List{RequestResponse.TipoDocumentoRequest})">
+            <summary>
+            RETORNA LA TABLA TipoDocumento EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.TipoDocumentoController.Update(RequestResponse.TipoDocumentoRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA TipoDocumento
+            </summary>
+            <param name="request">TipoDocumentoRequest</param>
+            <returns>TipoDocumentoResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.TipoDocumentoController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+        <member name="F:LibreriaYazzAPI.Controllers.UsuarioController._UsuarioBusniess">
+            NO VAMOS A IMPLEMENTAR TRU CATCH EN CADA METODO
+            DEBIDO QUE VAMOS A HACER USO DE UN MIDDLEWARE
+            MIDDLEWARE ==> GESTIONAR LOS ERRORES DE TODA LA APLICACIÓN
+            PODEMOS HACER VALIDACIONES A NIVE LOS DE LOS PARAMETROS DEL HEADER
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.UsuarioController.Get">
+            <summary>
+            RETORNA TODOS LOS REGISTROS DE LA TABLA Usuario
+            </summary>
+            <returns>List-UsuarioResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.UsuarioController.Get(System.Int32)">
+            <summary>
+            RETORNA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>UsuarioResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.UsuarioController.Create(RequestResponse.UsuarioRequest)">
+            <summary>
+            INSERTA UN REGISTRO EN LA TABLA Usuario
+            </summary>
+            <param name="request">UsuarioRequest</param>
+            <returns>UsuarioResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.UsuarioController.CreateMultiple(System.Collections.Generic.List{RequestResponse.UsuarioRequest})">
+            <summary>
+            RETORNA LA TABLA Usuario EN BASE A PAGINACIÓN Y FIILTROS
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.UsuarioController.Update(RequestResponse.UsuarioRequest)">
+            <summary>
+            ACTUALIZA UN REGISTRO EN LA TABLA Usuario
+            </summary>
+            <param name="request">UsuarioRequest</param>
+            <returns>UsuarioResponse</returns>
+        </member>
+        <member name="M:LibreriaYazzAPI.Controllers.UsuarioController.Delete(System.Int32)">
+            <summary>
+            ELIMINA EL REGISTRO DE LA TABLA FILTRADO POR EL PRIMARY KEY
+            </summary>
+            <param name="id">PRIMARY KEY</param>
+            <returns>cantidad de registros eliminados</returns>
+        </member>
+    </members>
+</doc>
