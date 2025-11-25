@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AoTvndVAy/Aby+X3lvvAY4liuxtJcpV14e9lwyEFoIPtlGnPrupJd892wacx7umbVKAKctEyf9BV69GRjF4PaQ==",
+  "dgSpecHash": "UTvTr1K6aByytiB/93on25PL5p0MwESnPHwfQEgkqNNbfHGTdf3IRx9JpxK42EvNwKNubFJXN7Qa3UXwNoJCBg==",
   "success": true,
-  "projectFilePath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IService\\IService.csproj",
+  "projectFilePath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IService\\IService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\mercadopago-sdk\\2.4.1\\mercadopago-sdk.2.4.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",

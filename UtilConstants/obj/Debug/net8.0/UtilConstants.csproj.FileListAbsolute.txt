@@ -72,3 +72,16 @@ D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstant
 D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\obj\Debug\net8.0\refint\UtilConstants.dll
 D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\obj\Debug\net8.0\UtilConstants.pdb
 D:\DATA\Alex\Diseno Web\LibreriaBack\UtilConstants\obj\Debug\net8.0\ref\UtilConstants.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack2\UtilConstants\bin\Debug\net8.0\UtilConstants.deps.json
+D:\DATA\Alex\Diseno Web\LibreriaBack2\UtilConstants\bin\Debug\net8.0\UtilConstants.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack2\UtilConstants\bin\Debug\net8.0\UtilConstants.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack2\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.AssemblyReference.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack2\UtilConstants\obj\Debug\net8.0\UtilConstants.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Alex\Diseno Web\LibreriaBack2\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfoInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack2\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfo.cs
+D:\DATA\Alex\Diseno Web\LibreriaBack2\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.CoreCompileInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack2\UtilConstants\obj\Debug\net8.0\UtilConstants.sourcelink.json
+D:\DATA\Alex\Diseno Web\LibreriaBack2\UtilConstants\obj\Debug\net8.0\UtilConstants.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack2\UtilConstants\obj\Debug\net8.0\refint\UtilConstants.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack2\UtilConstants\obj\Debug\net8.0\UtilConstants.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack2\UtilConstants\obj\Debug\net8.0\ref\UtilConstants.dll

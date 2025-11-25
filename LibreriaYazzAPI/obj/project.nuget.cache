@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dLnnmE04thZTarjTB15cOcwRFiewpVjJEVmgWBrnypoQPwQSg0qlY6w6g2NSv9G/33bF2hkTpM2ikI9S6i2HfQ==",
+  "dgSpecHash": "pLkpgbncy+aYeYVVIuDXz1RGF6tEdoEIAykEw26E5ePy3P5h0V9wbuWUDJz/B4dGReTIcB/ibTlsD9CLJYmHPA==",
   "success": true,
-  "projectFilePath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\LibreriaYazzAPI\\LibreriaYazzAPI.csproj",
+  "projectFilePath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\LibreriaYazzAPI\\LibreriaYazzAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

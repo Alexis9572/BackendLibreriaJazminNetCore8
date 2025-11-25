@@ -4788,11 +4788,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Busniess\\Busniess.csproj",
+      "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\Busniess\\Busniess.csproj",
       "projectName": "Busniess",
-      "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Busniess\\Busniess.csproj",
+      "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\Busniess\\Busniess.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Busniess\\obj\\",
+      "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\Busniess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4809,38 +4809,38 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\CommonModel\\CommonModel.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\CommonModel\\CommonModel.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\CommonModel\\CommonModel.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\CommonModel\\CommonModel.csproj"
             },
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\DBLibreria\\DBLibreria.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\DBLibreria\\DBLibreria.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\DBLibreria\\DBLibreria.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\DBLibreria\\DBLibreria.csproj"
             },
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IBusniess\\IBusniess.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IBusniess\\IBusniess.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IBusniess\\IBusniess.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IBusniess\\IBusniess.csproj"
             },
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IRepository\\IRepository.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IRepository\\IRepository.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IRepository\\IRepository.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IRepository\\IRepository.csproj"
             },
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IService\\IService.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IService\\IService.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IService\\IService.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IService\\IService.csproj"
             },
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Repository\\Repository.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Repository\\Repository.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\Repository\\Repository.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\Repository\\Repository.csproj"
             },
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\RequestResponse.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\RequestResponse.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\RequestResponse.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\RequestResponse.csproj"
             },
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Service\\Service.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Service\\Service.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\Service\\Service.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\Service\\Service.csproj"
             },
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilAutoMaper\\UtilAutoMapper.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilAutoMaper\\UtilAutoMapper.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilAutoMaper\\UtilAutoMapper.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilAutoMaper\\UtilAutoMapper.csproj"
             },
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilConstants\\UtilConstants.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilConstants\\UtilConstants.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilConstants\\UtilConstants.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilConstants\\UtilConstants.csproj"
             },
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilSecurity\\UtilSecurity.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilSecurity\\UtilSecurity.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilSecurity\\UtilSecurity.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilSecurity\\UtilSecurity.csproj"
             }
           }
         }

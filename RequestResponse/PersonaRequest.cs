@@ -24,6 +24,7 @@ namespace RequestResponse
         [StringLength(100)]
         [Unicode(false)]
         public string Apellidos { get; set; } = null!;
+        public string Correo { get; set; } = null!;
 
         [Column("telefono")]
         [StringLength(20)]
@@ -32,11 +33,6 @@ namespace RequestResponse
 
         [Column("direccion", TypeName = "text")]
         public string Direccion { get; set; } = null!;
-
-        [Column("correo")]
-        [StringLength(100)]
-        [Unicode(false)]
-        public string Correo { get; set; } = null!;
 
         [Column("idtipodocumento")]
         public int Idtipodocumento { get; set; }

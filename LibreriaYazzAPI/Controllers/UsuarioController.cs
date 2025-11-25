@@ -1,12 +1,19 @@
 ﻿using AutoMapper;
 using Busniess;
 using IBusniess;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
 using RequestResponse;
+using System.Security.Claims;
 using RequestResponseModel;
+using System.IdentityModel.Tokens.Jwt;
+using Microsoft.AspNetCore.Http;
 using System.Net;
-
+using System.Text;
+using LoginRequest = RequestResponseModel.LoginRequest;
 namespace LibreriaYazzAPI.Controllers
 {
     [Route("api/[controller]")]
@@ -23,11 +30,15 @@ namespace LibreriaYazzAPI.Controllers
         /*INYECCIÓN DE DEPENDECIAS*/
         #region DECLARACIÓN DE VARIABLES Y CONSTRUCTOR
         private readonly IUsuarioBusniess _UsuarioBusniess;
+        private readonly ILoginBussniess _loginBussniess;
+        private readonly IUsuarioVBussniess _UsuarioVBusniess;
         private readonly IMapper _mapper;
         public UsuarioController(IMapper mapper)
         {
             _mapper = mapper;
             _UsuarioBusniess = new UsuarioBusniess(mapper);
+            _UsuarioVBusniess = new UsuarioVBussniess(mapper);
+            _loginBussniess = new LoginBussniess(mapper);
         }
         #endregion DECLARACIÓN DE VARIABLES Y CONSTRUCTOR
 
@@ -73,11 +84,53 @@ namespace LibreriaYazzAPI.Controllers
         [ProducesResponseType((int)HttpStatusCode.OK, Type = typeof(UsuarioResponse))]
         [ProducesResponseType((int)HttpStatusCode.BadRequest, Type = typeof(GenericResponse))]
         [ProducesResponseType((int)HttpStatusCode.InternalServerError, Type = typeof(GenericResponse))]
-        public IActionResult Create([FromBody] UsuarioRequest  request)
-        {
-            return Ok(_UsuarioBusniess.Create(request));
-        }
 
+        public IActionResult Create([FromBody] UsuarioVRequest request)
+        {
+            UsuarioVResponse usuarioVResponse = _UsuarioVBusniess.Create(request);
+            if(usuarioVResponse!=null)
+            {
+                LoginRequest loginRequest = new LoginRequest();
+                loginRequest.UserName = request.Usuario1;
+                loginRequest.Password = request.Contrasenia;
+                LoginResponse responseLogin = _loginBussniess.Login(loginRequest);
+                if (responseLogin.Success)
+                {
+                    responseLogin.Token = CreateToken(responseLogin);
+                    usuarioVResponse.LoginResponse = _mapper.Map<LoginResponse>(responseLogin);
+
+                    return Ok(usuarioVResponse);
+                }
+            }
+
+            return Ok(usuarioVResponse);
+
+        }
+        private string CreateToken(LoginResponse responseLogin)
+        {
+            IConfigurationBuilder configurationBuild = new ConfigurationBuilder();
+            configurationBuild = configurationBuild.AddJsonFile("appsettings.json");
+            IConfiguration configurationFile = configurationBuild.Build();
+
+            int tiempoVida = int.Parse(configurationFile["Jwt:TimeJWTMin"]);
+
+            var tokenHandler = new JwtSecurityTokenHandler();
+            var byteKey = Encoding.UTF8.GetBytes(configurationFile["Jwt:Key"]);
+            var tokenDes = new SecurityTokenDescriptor
+            {
+                Subject = new ClaimsIdentity(new Claim[]
+                {
+                        new Claim("Id",  responseLogin.Usuario.Id.ToString()),
+                        new Claim("Nombre", responseLogin.Persona.Nombre),
+                        new Claim("Id",responseLogin.Rol.Id.ToString())
+                }),
+                Expires = DateTime.UtcNow.AddMinutes(tiempoVida),
+                SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(byteKey),
+                                                                SecurityAlgorithms.HmacSha256Signature)
+            };
+            var token = tokenHandler.CreateToken(tokenDes);
+            return tokenHandler.WriteToken(token);
+        }
         /// <summary>
         /// RETORNA LA TABLA Usuario EN BASE A PAGINACIÓN Y FIILTROS
         /// </summary>

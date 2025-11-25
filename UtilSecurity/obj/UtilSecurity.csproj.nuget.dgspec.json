@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilSecurity\\UtilSecurity.csproj": {}
+    "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilSecurity\\UtilSecurity.csproj": {}
   },
   "projects": {
-    "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilSecurity\\UtilSecurity.csproj": {
+    "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilSecurity\\UtilSecurity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilSecurity\\UtilSecurity.csproj",
+        "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilSecurity\\UtilSecurity.csproj",
         "projectName": "UtilSecurity",
-        "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilSecurity\\UtilSecurity.csproj",
+        "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilSecurity\\UtilSecurity.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilSecurity\\obj\\",
+        "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilSecurity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

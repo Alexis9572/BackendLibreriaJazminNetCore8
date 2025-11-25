@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KSrVenDKZmb+VLnhbmdw1ve32+6x75wkPrhujD1oIEryXfR/ADKbMlUZ4qIWAzWYG16sm3EEvxKurGgi2JjE5g==",
+  "dgSpecHash": "O6ihi80PJH2RxKCNpUAsRMBFag6g33vyyf0tVuLMGuf8BGhMrwktup1fOuoIA3cog0bVi3SLIva31ft6D9zfNw==",
   "success": true,
-  "projectFilePath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IRepository\\IRepository.csproj",
+  "projectFilePath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IRepository\\IRepository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

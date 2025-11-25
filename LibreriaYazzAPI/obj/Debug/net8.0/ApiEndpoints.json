@@ -3743,7 +3743,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "RequestResponse.UsuarioRequest",
+        "Type": "RequestResponse.UsuarioVRequest",
         "IsRequired": true
       }
     ],

@@ -58,9 +58,10 @@ public partial class _dbLibreriaContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=SQL9001.site4now.net;Initial Catalog=db_abf142_libreriajazmin;User Id=db_abf142_libreriajazmin_admin;Password=Alexis9572");
+        => optionsBuilder.UseSqlServer("Data Source=DESKTOP-IFHIDDS\\SQLEXPRESS;Initial Catalog=LibreriaJazmin;Integrated Security=True;Trusted_Connection=true;Trust Server Certificate=true");
     //Server=ssql9001.site4now.net;Database=db_abf142_libreriajazmin;User Id=db_abf142_libreriajazmin_admin;Password=Alexis9572;MultipleActiveResultSets=true
     //Data Source=DESKTOP-IFHIDDS\\SQLEXPRESS;Initial Catalog=LibreriaJazmin;Integrated Security=True;Trusted_Connection=true;Trust Server Certificate=true
+    //Data Source=SQL9001.site4now.net;Initial Catalog=db_abf142_libreriajazmin;User Id=db_abf142_libreriajazmin_admin;Password=Alexis9572
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

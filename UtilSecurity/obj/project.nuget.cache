@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6bLS9b2RKNmWqPQcr6cUmM8ljFBu+CKc97K657e6TeVJK2ApIxTKW5uTkCqJkzZ+AwNxXaI9UaCaVq3HNqHfwA==",
+  "dgSpecHash": "IcQ9VkziROK18F+BVYOIbUb+9nayM0sKiklVmYqSYltT46eca1QN9+MWPcmCmjJ0dyikUI2QLpbhvwcy0s9VTQ==",
   "success": true,
-  "projectFilePath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilSecurity\\UtilSecurity.csproj",
+  "projectFilePath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilSecurity\\UtilSecurity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

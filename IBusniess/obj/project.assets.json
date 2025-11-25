@@ -3205,11 +3205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IBusniess\\IBusniess.csproj",
+      "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IBusniess\\IBusniess.csproj",
       "projectName": "IBusniess",
-      "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IBusniess\\IBusniess.csproj",
+      "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IBusniess\\IBusniess.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IBusniess\\obj\\",
+      "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IBusniess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3226,8 +3226,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\RequestResponse.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\RequestResponse.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\RequestResponse.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\RequestResponse.csproj"
             }
           }
         }

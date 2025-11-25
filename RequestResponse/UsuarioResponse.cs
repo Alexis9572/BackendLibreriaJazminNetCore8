@@ -24,16 +24,9 @@ namespace RequestResponse
 
         public string Usuario1 { get; set; } = null!;
 
-        public string Nombre { get; set; } = null!;
+        public string Contrasenia { get; set; } = null!; 
 
-        public string Apellidos { get; set; } = null!;
-
-        public string Telefono { get; set; } = null!;
-
-        [Column("direccion", TypeName = "text")]
-        public string Direccion { get; set; } = null!;
-
-  
+        public PersonaRequest? persona { get; set; }
         public string Correo { get; set; } = null!;
     }
 }

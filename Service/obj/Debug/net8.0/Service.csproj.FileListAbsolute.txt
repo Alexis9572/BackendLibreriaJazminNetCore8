@@ -68,3 +68,16 @@ D:\DATA\Alex\Diseno Web\LibreriaBack\Service\obj\Debug\net8.0\Service.dll
 D:\DATA\Alex\Diseno Web\LibreriaBack\Service\obj\Debug\net8.0\refint\Service.dll
 D:\DATA\Alex\Diseno Web\LibreriaBack\Service\obj\Debug\net8.0\Service.pdb
 D:\DATA\Alex\Diseno Web\LibreriaBack\Service\obj\Debug\net8.0\ref\Service.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack2\Service\bin\Debug\net8.0\Service.deps.json
+D:\DATA\Alex\Diseno Web\LibreriaBack2\Service\bin\Debug\net8.0\Service.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack2\Service\bin\Debug\net8.0\Service.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack2\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack2\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Alex\Diseno Web\LibreriaBack2\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack2\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\DATA\Alex\Diseno Web\LibreriaBack2\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\DATA\Alex\Diseno Web\LibreriaBack2\Service\obj\Debug\net8.0\Service.sourcelink.json
+D:\DATA\Alex\Diseno Web\LibreriaBack2\Service\obj\Debug\net8.0\Service.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack2\Service\obj\Debug\net8.0\refint\Service.dll
+D:\DATA\Alex\Diseno Web\LibreriaBack2\Service\obj\Debug\net8.0\Service.pdb
+D:\DATA\Alex\Diseno Web\LibreriaBack2\Service\obj\Debug\net8.0\ref\Service.dll

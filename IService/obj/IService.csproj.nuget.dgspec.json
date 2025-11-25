@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IService\\IService.csproj": {}
+    "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IService\\IService.csproj": {}
   },
   "projects": {
-    "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IService\\IService.csproj": {
+    "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IService\\IService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IService\\IService.csproj",
+        "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IService\\IService.csproj",
         "projectName": "IService",
-        "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IService\\IService.csproj",
+        "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IService\\IService.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IService\\obj\\",
+        "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

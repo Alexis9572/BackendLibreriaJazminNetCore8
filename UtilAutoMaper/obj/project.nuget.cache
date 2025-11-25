@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0IdRabyhuGRzAfipyl6hMzVPF7f49hlCBbvewArR+GCPjb8E3xqVwd+b7+svTUSLuwi/2QvqFTdWY+RS+TE35A==",
+  "dgSpecHash": "NJfMDZbGdBn3PZRhuZgIhAOtus9w0qD9bpt0RZtV16XH5syJMteHTUZfH9jNiuEDy7fXv/J8CLopbqYOb/nRvQ==",
   "success": true,
-  "projectFilePath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilAutoMaper\\UtilAutoMapper.csproj",
+  "projectFilePath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilAutoMaper\\UtilAutoMapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

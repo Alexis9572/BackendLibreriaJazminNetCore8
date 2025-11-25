@@ -8,6 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using UtilSecurity;
 
 namespace Busniess
 {
@@ -19,6 +20,7 @@ namespace Busniess
         private readonly IPersonaBusniess _personaBussniess;
         private readonly IRolBusniess _rolBussniess;
         private readonly ITipoDocumentoBusniess _tipoDocumentoBussniess;
+        private readonly UtilEncriptarDesencriptar _cripto;
         private readonly IMapper _mapper;
         public UsuarioVBussniess(IMapper mapper)
         {
@@ -26,6 +28,7 @@ namespace Busniess
             _personaBussniess = new PersonaBusniess (mapper);
             _rolBussniess = new RolBusniess(mapper);
             _tipoDocumentoBussniess = new TipoDocumentoBusniess(mapper);
+            _cripto = new UtilEncriptarDesencriptar();
             _mapper = mapper;
         }
 
@@ -34,13 +37,65 @@ namespace Busniess
         public UsuarioVResponse Create(UsuarioVRequest entity)
         {
             PersonaResponse personaResponse = new PersonaResponse();
+            UsuarioResponse usuarioResponse = new UsuarioResponse();
+            UsuarioVResponse usuarioVResponse = new UsuarioVResponse();
             //Creacion de persona
+           
 
-            PersonaRequest personaRequest = _mapper.Map<PersonaRequest>(entity);
-            personaResponse = _personaBussniess.Create(personaRequest);
+            if (entity.Documento=="DNI")
+            {
+
+                PersonaRequest personaRequest = _mapper.Map<PersonaRequest>(entity.persona);
+                personaRequest.Idtipodocumento = 1;
+                personaResponse = _personaBussniess.Create(personaRequest);
+                if (personaResponse == null)
+                {
+                    personaResponse.Message = "Nose Pudo Crear la Persona";
+                    return usuarioVResponse;
+                }
+                usuarioVResponse = _mapper.Map<UsuarioVResponse>(personaResponse);
+
+                UsuarioRequest usuarioRequest = _mapper.Map<UsuarioRequest>(entity);
+                usuarioRequest.RolId = 2;
+                usuarioRequest.Estado = "ACTIVO";
+                string claveEncriptada = _cripto.AES_encriptar(entity.Contrasenia);
+                usuarioRequest.Contrasenia = claveEncriptada;
+                usuarioRequest.PersonaId = personaResponse.Id;
+                usuarioResponse = _usuarioBussniess.Create(usuarioRequest);
+                usuarioVResponse = _mapper.Map<UsuarioVResponse>(usuarioResponse);
+                return usuarioVResponse;
+            }
+            if (entity.Documento == "CE")
+            {
+                PersonaRequest personaRequest = _mapper.Map<PersonaRequest>(entity);
+                personaRequest.Idtipodocumento = 2;
+                personaResponse = _personaBussniess.Create(personaRequest);
+                if (personaResponse == null)
+                {
+                    personaResponse.Message = "Nose Pudo Crear la Persona";
+                    return usuarioVResponse;
+                }
+
+                usuarioVResponse = _mapper.Map<UsuarioVResponse>(personaResponse);
+
+                UsuarioRequest usuarioRequest = _mapper.Map<UsuarioRequest>(entity);
+                usuarioRequest.RolId = 1;
+                personaResponse.Id = usuarioRequest.PersonaId;
+                usuarioRequest.Estado = "ACTIVO";
+                string claveEncriptada = _cripto.AES_encriptar(entity.Contrasenia);
+                usuarioRequest.Contrasenia = claveEncriptada;
+                usuarioResponse = _usuarioBussniess.Create(usuarioRequest);
+
+                usuarioVResponse = _mapper.Map<UsuarioVResponse>(usuarioResponse.persona);
+                usuarioVResponse = _mapper.Map<UsuarioVResponse>(usuarioResponse);
+    
+            
+
+                return usuarioVResponse;
+            }
 
 
-            throw new NotImplementedException();
+            return usuarioVResponse;
         }
 
         public List<UsuarioVResponse> CreateMultiple(List<UsuarioVRequest> lista)

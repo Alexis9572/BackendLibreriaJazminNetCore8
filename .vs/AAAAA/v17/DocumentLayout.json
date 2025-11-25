@@ -1,58 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\",
+  "WorkspaceRootPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B64FEF7-0601-486D-A2B9-C7316B65D3C9}|Busniess\\Busniess.csproj|d:\\data\\alex\\diseno web\\libreriaback\\busniess\\usuariovbussniess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B64FEF7-0601-486D-A2B9-C7316B65D3C9}|Busniess\\Busniess.csproj|solutionrelative:busniess\\usuariovbussniess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B64FEF7-0601-486D-A2B9-C7316B65D3C9}|Busniess\\Busniess.csproj|d:\\data\\alex\\diseno web\\libreriaback\\busniess\\usuariobusniess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B64FEF7-0601-486D-A2B9-C7316B65D3C9}|Busniess\\Busniess.csproj|solutionrelative:busniess\\usuariobusniess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B64FEF7-0601-486D-A2B9-C7316B65D3C9}|Busniess\\Busniess.csproj|d:\\data\\alex\\diseno web\\libreriaback\\busniess\\personabusniess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B64FEF7-0601-486D-A2B9-C7316B65D3C9}|Busniess\\Busniess.csproj|solutionrelative:busniess\\personabusniess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8960C06-5330-428E-8ECD-07B1073C2B5F}|RequestResponse\\RequestResponse.csproj|d:\\data\\alex\\diseno web\\libreriaback\\requestresponse\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8960C06-5330-428E-8ECD-07B1073C2B5F}|RequestResponse\\RequestResponse.csproj|solutionrelative:requestresponse\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EE3D2D0-3E48-44D8-8B2E-C6ADC4BACD96}|DBLibreria\\DBLibreria.csproj|d:\\data\\alex\\diseno web\\libreriaback\\dblibreria\\dblibreria\\_dblibreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EE3D2D0-3E48-44D8-8B2E-C6ADC4BACD96}|DBLibreria\\DBLibreria.csproj|d:\\data\\alex\\diseno web\\libreriaback2\\dblibreria\\dblibreria\\_dblibreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EE3D2D0-3E48-44D8-8B2E-C6ADC4BACD96}|DBLibreria\\DBLibreria.csproj|solutionrelative:dblibreria\\dblibreria\\_dblibreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{662E6C80-F24C-4581-981E-A36E771AE4BD}|LibreriaYazzAPI\\LibreriaYazzAPI.csproj|d:\\data\\alex\\diseno web\\libreriaback\\libreriayazzapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{662E6C80-F24C-4581-981E-A36E771AE4BD}|LibreriaYazzAPI\\LibreriaYazzAPI.csproj|solutionrelative:libreriayazzapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B64FEF7-0601-486D-A2B9-C7316B65D3C9}|Busniess\\Busniess.csproj|d:\\data\\alex\\diseno web\\libreriaback2\\busniess\\usuariovbussniess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B64FEF7-0601-486D-A2B9-C7316B65D3C9}|Busniess\\Busniess.csproj|solutionrelative:busniess\\usuariovbussniess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{662E6C80-F24C-4581-981E-A36E771AE4BD}|LibreriaYazzAPI\\LibreriaYazzAPI.csproj|d:\\data\\alex\\diseno web\\libreriaback\\libreriayazzapi\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{662E6C80-F24C-4581-981E-A36E771AE4BD}|LibreriaYazzAPI\\LibreriaYazzAPI.csproj|solutionrelative:libreriayazzapi\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B64FEF7-0601-486D-A2B9-C7316B65D3C9}|Busniess\\Busniess.csproj|d:\\data\\alex\\diseno web\\libreriaback\\busniess\\calificacionebusniess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B64FEF7-0601-486D-A2B9-C7316B65D3C9}|Busniess\\Busniess.csproj|solutionrelative:busniess\\calificacionebusniess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEAC213-29A6-4D3B-8528-7D07285D08A1}|IBusniess\\IBusniess.csproj|d:\\data\\alex\\diseno web\\libreriaback\\ibusniess\\iusuariovbussniess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEAC213-29A6-4D3B-8528-7D07285D08A1}|IBusniess\\IBusniess.csproj|solutionrelative:ibusniess\\iusuariovbussniess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEAC213-29A6-4D3B-8528-7D07285D08A1}|IBusniess\\IBusniess.csproj|d:\\data\\alex\\diseno web\\libreriaback\\ibusniess\\iusuariobusniess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEAC213-29A6-4D3B-8528-7D07285D08A1}|IBusniess\\IBusniess.csproj|solutionrelative:ibusniess\\iusuariobusniess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8960C06-5330-428E-8ECD-07B1073C2B5F}|RequestResponse\\RequestResponse.csproj|d:\\data\\alex\\diseno web\\libreriaback\\requestresponse\\usuariovrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8960C06-5330-428E-8ECD-07B1073C2B5F}|RequestResponse\\RequestResponse.csproj|d:\\data\\alex\\diseno web\\libreriaback2\\requestresponse\\usuariovrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8960C06-5330-428E-8ECD-07B1073C2B5F}|RequestResponse\\RequestResponse.csproj|solutionrelative:requestresponse\\usuariovrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8960C06-5330-428E-8ECD-07B1073C2B5F}|RequestResponse\\RequestResponse.csproj|d:\\data\\alex\\diseno web\\libreriaback\\requestresponse\\usuariovresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{662E6C80-F24C-4581-981E-A36E771AE4BD}|LibreriaYazzAPI\\LibreriaYazzAPI.csproj|d:\\data\\alex\\diseno web\\libreriaback2\\libreriayazzapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662E6C80-F24C-4581-981E-A36E771AE4BD}|LibreriaYazzAPI\\LibreriaYazzAPI.csproj|solutionrelative:libreriayazzapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8960C06-5330-428E-8ECD-07B1073C2B5F}|RequestResponse\\RequestResponse.csproj|d:\\data\\alex\\diseno web\\libreriaback2\\requestresponse\\usuariovresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8960C06-5330-428E-8ECD-07B1073C2B5F}|RequestResponse\\RequestResponse.csproj|solutionrelative:requestresponse\\usuariovresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8960C06-5330-428E-8ECD-07B1073C2B5F}|RequestResponse\\RequestResponse.csproj|d:\\data\\alex\\diseno web\\libreriaback\\requestresponse\\usuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75F4EE8E-5B08-4E78-94DB-E856D39975A3}|UtilAutoMaper\\UtilAutoMapper.csproj|d:\\data\\alex\\diseno web\\libreriaback2\\utilautomaper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F4EE8E-5B08-4E78-94DB-E856D39975A3}|UtilAutoMaper\\UtilAutoMapper.csproj|solutionrelative:utilautomaper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662E6C80-F24C-4581-981E-A36E771AE4BD}|LibreriaYazzAPI\\LibreriaYazzAPI.csproj|d:\\data\\alex\\diseno web\\libreriaback2\\libreriayazzapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662E6C80-F24C-4581-981E-A36E771AE4BD}|LibreriaYazzAPI\\LibreriaYazzAPI.csproj|solutionrelative:libreriayazzapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8960C06-5330-428E-8ECD-07B1073C2B5F}|RequestResponse\\RequestResponse.csproj|d:\\data\\alex\\diseno web\\libreriaback2\\requestresponse\\usuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8960C06-5330-428E-8ECD-07B1073C2B5F}|RequestResponse\\RequestResponse.csproj|solutionrelative:requestresponse\\usuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8960C06-5330-428E-8ECD-07B1073C2B5F}|RequestResponse\\RequestResponse.csproj|d:\\data\\alex\\diseno web\\libreriaback2\\requestresponse\\responsegeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8960C06-5330-428E-8ECD-07B1073C2B5F}|RequestResponse\\RequestResponse.csproj|solutionrelative:requestresponse\\responsegeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8960C06-5330-428E-8ECD-07B1073C2B5F}|RequestResponse\\RequestResponse.csproj|d:\\data\\alex\\diseno web\\libreriaback2\\requestresponse\\productoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8960C06-5330-428E-8ECD-07B1073C2B5F}|RequestResponse\\RequestResponse.csproj|solutionrelative:requestresponse\\productoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,161 +58,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuarioRequest.cs",
-              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\UsuarioRequest.cs",
-              "RelativeDocumentMoniker": "RequestResponse\\UsuarioRequest.cs",
-              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\UsuarioRequest.cs",
-              "RelativeToolTip": "RequestResponse\\UsuarioRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "DocumentIndex": 0,
+              "Title": "_dbLibreriaContext.cs",
+              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\DBLibreria\\DBLibreria\\_dbLibreriaContext.cs",
+              "RelativeDocumentMoniker": "DBLibreria\\DBLibreria\\_dbLibreriaContext.cs",
+              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\DBLibreria\\DBLibreria\\_dbLibreriaContext.cs",
+              "RelativeToolTip": "DBLibreria\\DBLibreria\\_dbLibreriaContext.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAIwD8AAACKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T19:30:21.634Z"
+              "WhenOpened": "2025-11-25T17:55:54.157Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\LibreriaYazzAPI\\Program.cs",
-              "RelativeDocumentMoniker": "LibreriaYazzAPI\\Program.cs",
-              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\LibreriaYazzAPI\\Program.cs",
-              "RelativeToolTip": "LibreriaYazzAPI\\Program.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAGwAAAAAAAAA",
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilAutoMaper\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "UtilAutoMaper\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilAutoMaper\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "UtilAutoMaper\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwAQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T23:05:14.035Z"
+              "WhenOpened": "2025-11-25T12:26:11.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_dbLibreriaContext.cs",
-              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\DBLibreria\\DBLibreria\\_dbLibreriaContext.cs",
-              "RelativeDocumentMoniker": "DBLibreria\\DBLibreria\\_dbLibreriaContext.cs",
-              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\DBLibreria\\DBLibreria\\_dbLibreriaContext.cs",
-              "RelativeToolTip": "DBLibreria\\DBLibreria\\_dbLibreriaContext.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAUwCkAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "UsuarioResponse.cs",
+              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\UsuarioResponse.cs",
+              "RelativeDocumentMoniker": "RequestResponse\\UsuarioResponse.cs",
+              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\UsuarioResponse.cs",
+              "RelativeToolTip": "RequestResponse\\UsuarioResponse.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T21:54:37.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RolController.cs",
-              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\LibreriaYazzAPI\\Controllers\\RolController.cs",
-              "RelativeDocumentMoniker": "LibreriaYazzAPI\\Controllers\\RolController.cs",
-              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\LibreriaYazzAPI\\Controllers\\RolController.cs",
-              "RelativeToolTip": "LibreriaYazzAPI\\Controllers\\RolController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T15:10:39.737Z",
+              "WhenOpened": "2025-11-25T12:22:16.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PersonaBusniess.cs",
-              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Busniess\\PersonaBusniess.cs",
-              "RelativeDocumentMoniker": "Busniess\\PersonaBusniess.cs",
-              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Busniess\\PersonaBusniess.cs",
-              "RelativeToolTip": "Busniess\\PersonaBusniess.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAADgvzIAAAA0AAAA",
+              "Title": "UsuarioVRequest.cs",
+              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\UsuarioVRequest.cs",
+              "RelativeDocumentMoniker": "RequestResponse\\UsuarioVRequest.cs",
+              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\UsuarioVRequest.cs",
+              "RelativeToolTip": "RequestResponse\\UsuarioVRequest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T15:13:47.522Z"
+              "WhenOpened": "2025-11-25T12:22:13.509Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CalificacioneBusniess.cs",
-              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Busniess\\CalificacioneBusniess.cs",
-              "RelativeDocumentMoniker": "Busniess\\CalificacioneBusniess.cs",
-              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Busniess\\CalificacioneBusniess.cs",
-              "RelativeToolTip": "Busniess\\CalificacioneBusniess.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAIAAAA",
+              "DocumentIndex": 8,
+              "Title": "ResponseGeneric.cs",
+              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\ResponseGeneric.cs",
+              "RelativeDocumentMoniker": "RequestResponse\\ResponseGeneric.cs",
+              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\ResponseGeneric.cs",
+              "RelativeToolTip": "RequestResponse\\ResponseGeneric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T15:10:18.572Z"
+              "WhenOpened": "2025-11-25T12:21:32.51Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioVBussniess.cs",
-              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Busniess\\UsuarioVBussniess.cs",
-              "RelativeDocumentMoniker": "Busniess\\UsuarioVBussniess.cs",
-              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Busniess\\UsuarioVBussniess.cs",
-              "RelativeToolTip": "Busniess\\UsuarioVBussniess.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAlwCIAAAAJAAAA",
+              "DocumentIndex": 9,
+              "Title": "ProductoResponse.cs",
+              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\ProductoResponse.cs",
+              "RelativeDocumentMoniker": "RequestResponse\\ProductoResponse.cs",
+              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\ProductoResponse.cs",
+              "RelativeToolTip": "RequestResponse\\ProductoResponse.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T15:05:58.071Z",
+              "WhenOpened": "2025-11-25T12:21:29.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioVResponse.cs",
+              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\UsuarioVResponse.cs",
+              "RelativeDocumentMoniker": "RequestResponse\\UsuarioVResponse.cs",
+              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\UsuarioVResponse.cs",
+              "RelativeToolTip": "RequestResponse\\UsuarioVResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:20:25.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UsuarioBusniess.cs",
-              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Busniess\\UsuarioBusniess.cs",
-              "RelativeDocumentMoniker": "Busniess\\UsuarioBusniess.cs",
-              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Busniess\\UsuarioBusniess.cs",
-              "RelativeToolTip": "Busniess\\UsuarioBusniess.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAwwDgAAAAfAAAA",
+              "Title": "UsuarioVBussniess.cs",
+              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\Busniess\\UsuarioVBussniess.cs",
+              "RelativeDocumentMoniker": "Busniess\\UsuarioVBussniess.cs",
+              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\Busniess\\UsuarioVBussniess.cs",
+              "RelativeToolTip": "Busniess\\UsuarioVBussniess.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAhwDYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T15:05:35.142Z"
+              "WhenOpened": "2025-11-25T02:48:45.901Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUsuarioBusniess.cs",
-              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IBusniess\\IUsuarioBusniess.cs",
-              "RelativeDocumentMoniker": "IBusniess\\IUsuarioBusniess.cs",
-              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IBusniess\\IUsuarioBusniess.cs",
-              "RelativeToolTip": "IBusniess\\IUsuarioBusniess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABWAAAA",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\LibreriaYazzAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LibreriaYazzAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\LibreriaYazzAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LibreriaYazzAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T15:03:22.858Z"
+              "WhenOpened": "2025-11-25T02:17:46.957Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UsuarioResponse.cs",
-              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\UsuarioResponse.cs",
-              "RelativeDocumentMoniker": "RequestResponse\\UsuarioResponse.cs",
-              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\UsuarioResponse.cs",
-              "RelativeToolTip": "RequestResponse\\UsuarioResponse.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAzAAAA",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\LibreriaYazzAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "LibreriaYazzAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\LibreriaYazzAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "LibreriaYazzAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAewGYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T14:58:20.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UsuarioVRequest.cs",
-              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\UsuarioVRequest.cs",
-              "RelativeDocumentMoniker": "RequestResponse\\UsuarioVRequest.cs",
-              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\UsuarioVRequest.cs",
-              "RelativeToolTip": "RequestResponse\\UsuarioVRequest.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T14:58:02.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UsuarioVResponse.cs",
-              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\UsuarioVResponse.cs",
-              "RelativeDocumentMoniker": "RequestResponse\\UsuarioVResponse.cs",
-              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\UsuarioVResponse.cs",
-              "RelativeToolTip": "RequestResponse\\UsuarioVResponse.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwAwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T14:57:51.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IUsuarioVBussniess.cs",
-              "DocumentMoniker": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IBusniess\\IUsuarioVBussniess.cs",
-              "RelativeDocumentMoniker": "IBusniess\\IUsuarioVBussniess.cs",
-              "ToolTip": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IBusniess\\IUsuarioVBussniess.cs",
-              "RelativeToolTip": "IBusniess\\IUsuarioVBussniess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T14:57:14.751Z"
+              "WhenOpened": "2025-11-25T02:17:31.027Z",
+              "EditorCaption": ""
             }
           ]
         }

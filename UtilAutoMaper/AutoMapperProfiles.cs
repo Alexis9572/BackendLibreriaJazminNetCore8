@@ -2,6 +2,7 @@
 using DBLibreria;
 using DBLibreria.DBLibreria;
 using RequestResponse;
+using RequestResponseModel;
 
 namespace UtilAutoMaper
 {
@@ -98,6 +99,23 @@ namespace UtilAutoMaper
             CreateMap<ProductoResponse, VwProducto>().ReverseMap();
             CreateMap<VwProducto, ProductoResponse>().ReverseMap();
 
+            CreateMap<UsuarioVRequest, PersonaRequest>().ReverseMap();
+            CreateMap<PersonaRequest, UsuarioVRequest>().ReverseMap();
+
+            CreateMap<UsuarioVResponse, PersonaResponse>().ReverseMap();
+            CreateMap<PersonaResponse, UsuarioVResponse>().ReverseMap();
+
+            CreateMap<UsuarioRequest, UsuarioVRequest>().ReverseMap();
+            CreateMap<UsuarioVRequest, UsuarioRequest>().ReverseMap();
+
+            CreateMap<UsuarioVResponse, UsuarioResponse>().ReverseMap();
+            CreateMap<UsuarioResponse, UsuarioVResponse>().ReverseMap();
+
+            CreateMap<Usuario, UsuarioRequest>().ReverseMap();
+            CreateMap<UsuarioRequest, Usuario>().ReverseMap();
+
+            CreateMap<UsuarioVResponse, LoginResponse>().ReverseMap();
+            CreateMap<LoginResponse, UsuarioVResponse>().ReverseMap();
             #region PERFIL
             CreateMap<Perfil, UsuarioResponse>().ReverseMap();
             CreateMap<UsuarioResponse, Perfil>().ReverseMap();

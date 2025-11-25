@@ -4417,11 +4417,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\CommonModel\\CommonModel.csproj",
+      "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\CommonModel\\CommonModel.csproj",
       "projectName": "CommonModel",
-      "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\CommonModel\\CommonModel.csproj",
+      "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\CommonModel\\CommonModel.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\CommonModel\\obj\\",
+      "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\CommonModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

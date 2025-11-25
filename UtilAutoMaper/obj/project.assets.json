@@ -3268,11 +3268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilAutoMaper\\UtilAutoMapper.csproj",
+      "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilAutoMaper\\UtilAutoMapper.csproj",
       "projectName": "UtilAutoMapper",
-      "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilAutoMaper\\UtilAutoMapper.csproj",
+      "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilAutoMaper\\UtilAutoMapper.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilAutoMaper\\obj\\",
+      "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilAutoMaper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3289,11 +3289,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\DBLibreria\\DBLibreria.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\DBLibreria\\DBLibreria.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\DBLibreria\\DBLibreria.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\DBLibreria\\DBLibreria.csproj"
             },
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\RequestResponse.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\RequestResponse.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\RequestResponse.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\RequestResponse.csproj"
             }
           }
         }

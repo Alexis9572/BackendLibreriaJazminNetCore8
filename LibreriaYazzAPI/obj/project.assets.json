@@ -5060,11 +5060,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\LibreriaYazzAPI\\LibreriaYazzAPI.csproj",
+      "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\LibreriaYazzAPI\\LibreriaYazzAPI.csproj",
       "projectName": "LibreriaYazzAPI",
-      "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\LibreriaYazzAPI\\LibreriaYazzAPI.csproj",
+      "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\LibreriaYazzAPI\\LibreriaYazzAPI.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\LibreriaYazzAPI\\obj\\",
+      "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\LibreriaYazzAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5081,11 +5081,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Busniess\\Busniess.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Busniess\\Busniess.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\Busniess\\Busniess.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\Busniess\\Busniess.csproj"
             },
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilSecurity\\UtilSecurity.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilSecurity\\UtilSecurity.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilSecurity\\UtilSecurity.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilSecurity\\UtilSecurity.csproj"
             }
           }
         }

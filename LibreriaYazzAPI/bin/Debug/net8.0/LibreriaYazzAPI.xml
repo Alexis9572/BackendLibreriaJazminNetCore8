@@ -775,7 +775,7 @@
             <param name="id">PRIMARY KEY</param>
             <returns>UsuarioResponse</returns>
         </member>
-        <member name="M:LibreriaYazzAPI.Controllers.UsuarioController.Create(RequestResponse.UsuarioRequest)">
+        <member name="M:LibreriaYazzAPI.Controllers.UsuarioController.Create(RequestResponse.UsuarioVRequest)">
             <summary>
             INSERTA UN REGISTRO EN LA TABLA Usuario
             </summary>

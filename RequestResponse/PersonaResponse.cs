@@ -41,6 +41,7 @@ namespace RequestResponse
         [Column("idtipodocumento")]
         public int Idtipodocumento { get; set; }
 
+        public string Message { get; set; } = null!;
         //[InverseProperty("Persona")]
         //public virtual ICollection<Calificacione> Calificaciones { get; set; } = new List<Calificacione>();
 

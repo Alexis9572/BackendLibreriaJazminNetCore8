@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JKn+sSAV+519SjRF8wFlevbyMmoV8hgrfwt+CMdYCdqT2hJ/HXhi/4aQSvYCDSQS+cziBTrcHpd+csCG/ZSJqA==",
+  "dgSpecHash": "jPS5TjDDxvMaTglRAJEIUBfTBC3eoCuFkAFLtZGLrNEeIkeCDOkrz7vniK7npeJb1FJqsq5zmqS5QYCaGVEj/A==",
   "success": true,
-  "projectFilePath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\UtilConstants\\UtilConstants.csproj",
+  "projectFilePath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\UtilConstants\\UtilConstants.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

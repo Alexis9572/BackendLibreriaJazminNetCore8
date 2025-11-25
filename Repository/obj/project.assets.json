@@ -4527,11 +4527,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Repository\\Repository.csproj",
+      "projectUniqueName": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Repository\\Repository.csproj",
+      "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\Repository\\obj\\",
+      "outputPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4548,14 +4548,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\DBLibreria\\DBLibreria.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\DBLibreria\\DBLibreria.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\DBLibreria\\DBLibreria.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\DBLibreria\\DBLibreria.csproj"
             },
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IRepository\\IRepository.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\IRepository\\IRepository.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IRepository\\IRepository.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\IRepository\\IRepository.csproj"
             },
-            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\RequestResponse.csproj": {
-              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack\\RequestResponse\\RequestResponse.csproj"
+            "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\RequestResponse.csproj": {
+              "projectPath": "D:\\DATA\\Alex\\Diseno Web\\LibreriaBack2\\RequestResponse\\RequestResponse.csproj"
             }
           }
         }
